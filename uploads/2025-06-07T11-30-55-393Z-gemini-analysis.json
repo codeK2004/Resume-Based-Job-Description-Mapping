@@ -1,0 +1,178 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Frontend Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has internship experience as a Frontend Intern and has developed several frontend projects like a Weather Forecast Application, Netflix Clone Platform, and Personal Portfolio Website using HTML/CSS. This demonstrates practical experience in frontend development. The education in B.Tech also aligns well with the requirements for a junior frontend role.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "selectionPercentage": 45,
+        "rejectionPercentage": 55,
+        "barGraphMetrics": {
+          "skillMatch": 30,
+          "experienceMatch": 10,
+          "educationMatch": 50,
+          "overallMatch": 25
+        },
+        "detailedAnalysis": "The candidate's resume indicates a B.Tech degree, which aligns with the educational requirements for a Junior Frontend Developer, resulting in a moderate education match. The candidate lists HTML/CSS, which are core skills, but lacks other essential frontend skills like JavaScript and React/Angular/Vue.js. This results in a low skills match score. The internship experience is brief and lacks specific details on frontend technologies used, leading to a low experience relevance score. The overall potential is moderate, considering the candidate's interest in web development and AI, but requires significant upskilling in core frontend technologies. For example, the candidate mentions 'Netflix Clone Platform' but doesn't specify the frontend technologies used. The experience duration is very short (1 month), impacting the experience score."
+      }
+    },
+    {
+      "jobTitle": "Frontend Developer Intern",
+      "matchScore": 85,
+      "reasoning": "The candidate has prior experience as a Frontend Intern, making them a strong fit for similar roles. Their projects demonstrate practical application of HTML/CSS. This role provides an opportunity to further develop their frontend skills.",
+      "requiredSkills": [
+        "HTML/CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "selectionPercentage": 65,
+        "rejectionPercentage": 35,
+        "barGraphMetrics": {
+          "skillMatch": 60,
+          "experienceMatch": 50,
+          "educationMatch": 80,
+          "overallMatch": 75
+        },
+        "detailedAnalysis": "The candidate demonstrates a moderate fit for the Frontend Developer Intern position. The skills match is decent (60%) with HTML/CSS being a direct hit, but lacks Javascript which is crucial. Experience relevance is moderate (50%) as the projects listed are relevant, but the duration is short. Education alignment is strong (80%) given the B.Tech degree. Overall potential is good (75%) due to the full-stack internship experience and portfolio projects, indicating a willingness to learn and apply skills. For example, the Weather Forecast Application and Netflix Clone Platform projects showcase practical application of frontend technologies."
+      }
+    },
+    {
+      "jobTitle": "Junior Full Stack Developer",
+      "matchScore": 65,
+      "reasoning": "The candidate has internship experience as a Full Stack Intern. They also possess skills in Python, Java, and SQL/Database Management, which are relevant to full-stack development. However, the limited duration of the internship and the lack of specific full-stack project details lower the match score.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Backend Frameworks (Node.js, Django, Spring)",
+        "RESTful APIs",
+        "Version Control (Git)",
+        "Deployment"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "selectionPercentage": 55,
+        "rejectionPercentage": 45,
+        "barGraphMetrics": {
+          "skillMatch": 40,
+          "experienceMatch": 10,
+          "educationMatch": 80,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate demonstrates a moderate fit for the Junior Full Stack Developer position. The Skills Match is 40% due to the presence of HTML/CSS, Python, and SQL, which are relevant, but the resume lacks core front-end skills like JavaScript and React/Angular/Vue.js. The Experience Relevance is low (10%) because the internship duration is short (1 month), and the descriptions lack specific details about the technologies used and the complexity of the projects. The Education Alignment is strong (80%) as the B.Tech degree is relevant, but the field of study is not specified. The Overall Potential is estimated at 50% based on the candidate's stated interest in web development and AI, but further assessment is needed to determine their learning agility and problem-solving skills. For example, the candidate mentions 'Netflix Clone Platform' but doesn't specify the technologies used or the features implemented."
+      }
+    },
+    {
+      "jobTitle": "Web Developer Intern",
+      "matchScore": 80,
+      "reasoning": "Given the candidate's experience with web development projects during their internships, a Web Developer Intern position is a suitable match. This role allows them to apply their existing skills and gain further experience in the field.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git)",
+        "Backend Technologies"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "selectionPercentage": 65,
+        "rejectionPercentage": 35,
+        "barGraphMetrics": {
+          "skillMatch": 60,
+          "experienceMatch": 50,
+          "educationMatch": 80,
+          "overallMatch": 75
+        },
+        "detailedAnalysis": "The candidate demonstrates a moderate fit for the Web Developer Intern position. The skills match is decent, with proficiency in HTML/CSS and some exposure to Python and Java, which are valuable for web development. However, the resume lacks specific details on the depth of knowledge in these areas. The experience as a Front End and Full Stack Intern is relevant, particularly the projects mentioned (Weather Forecast Application, Netflix Clone, Portfolio Website, Task Manager). The duration of the Full Stack internship is short (1 month), limiting the experience relevance score. The B.Tech degree aligns well with the educational requirements. The candidate's interest in AI and Cybersecurity, while not directly related, indicates a broader technical aptitude and potential for learning. For example, the Netflix clone project demonstrates practical application of web development principles."
+      }
+    },
+    {
+      "jobTitle": "Data Science Intern",
+      "matchScore": 60,
+      "reasoning": "The candidate lists skills in Machine Learning Algorithms, Generative AI, and Python, which are relevant to data science. However, the resume lacks specific data science projects or experience. This role would be suitable if the candidate is looking to transition into data science and is willing to learn.",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning Algorithms",
+        "Generative AI"
+      ],
+      "missingSkills": [
+        "Data Analysis",
+        "Data Visualization",
+        "Statistical Modeling",
+        "Specific Machine Learning Libraries (Scikit-learn, TensorFlow, PyTorch)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "selectionPercentage": 65,
+        "rejectionPercentage": 35,
+        "barGraphMetrics": {
+          "skillMatch": 60,
+          "experienceMatch": 50,
+          "educationMatch": 80,
+          "overallMatch": 75
+        },
+        "detailedAnalysis": "The candidate demonstrates a moderate fit for the Data Science Intern position. The skills match is decent (60%) with proficiency in Python, HTML/CSS, and SQL/Database Management, which are valuable. However, the experience relevance is moderate (50%) as the internship experience is short (1 month) and not directly related to data science. The education alignment is strong (80%) given the B.Tech degree, although the field of study is not specified. The overall potential is good (75%) considering the candidate's interest in AI and web development, which can be complementary to data science. For example, the candidate's experience in developing web applications could be useful for deploying machine learning models."
+      }
+    }
+  ],
+  "timestamp": "2025-06-07T11-30-55-393Z"
+}

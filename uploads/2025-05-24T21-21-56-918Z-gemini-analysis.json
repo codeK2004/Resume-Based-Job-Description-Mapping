@@ -1,0 +1,165 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Frontend Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has experience as a Frontend Intern and possesses skills in HTML/CSS, which are fundamental for this role. Their projects, including the Netflix Clone and Personal Portfolio Website, demonstrate practical application of these skills. The internship experience provides a solid foundation for a junior-level position.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of frontend technologies (HTML/CSS) and some relevant project experience. However, the listed skills are broad and lack specific frontend frameworks (e.g., React, Angular, Vue.js). The internship experience is short. Education is relevant but lacks specific details. Overall potential is moderate, requiring further assessment of practical skills and learning agility."
+      }
+    },
+    {
+      "jobTitle": "Frontend Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given the candidate's prior internship experience and skills in HTML/CSS, another Frontend Developer Internship is a very suitable match. This allows them to further hone their skills and gain more practical experience before moving into a full-time role. The projects listed in their resume directly align with the responsibilities of a frontend intern.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript (basic understanding)",
+        "Version Control (Git basics)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "Candidate demonstrates a good foundation in relevant frontend skills (HTML/CSS) and has some project experience. The projects listed are relevant, but the descriptions lack detail. Education is aligned, but the year of graduation is missing. Overall potential is good, but further assessment of technical depth is needed."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "The candidate has experience as a Full Stack Intern, indicating some exposure to both frontend and backend technologies. While their listed skills are more heavily weighted towards frontend, the 'Full Stack' experience suggests a broader understanding. This role would allow them to utilize their existing skills while learning more about backend development.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "English",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "Backend Frameworks (Node.js, Python/Django, Java/Spring)",
+        "API Development",
+        "Database Design",
+        "Server Management"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of web development concepts through their projects and internships. While the skills listed are broad, the projects indicate practical application of HTML/CSS. The education is relevant, but the lack of specific dates and details weakens the alignment score. The overall potential is moderate, requiring further assessment of their problem-solving abilities and learning agility."
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer",
+      "matchScore": 60,
+      "reasoning": "The candidate's strong communication skills (English, Hindi, Telugu) combined with their technical background (HTML/CSS, SQL) make them a potential fit for a technical support role. They could assist users with web-related issues or database queries. This role would leverage their problem-solving abilities and technical knowledge.",
+      "requiredSkills": [
+        "English",
+        "HTML/CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "Customer Service Skills",
+        "Troubleshooting Methodologies",
+        "Specific Software Knowledge (related to the support role)"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 15,
+          "experienceRelevance": 10,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate's skills in Python, Java, and SQL/Database Management are somewhat relevant to a Technical Support Engineer role. Experience as a Front End and Full Stack intern provides limited direct experience in technical support. A B.Tech degree is generally aligned with the educational requirements. The candidate's potential is moderate, given their interest in web development, AI, and Cybersecurity, which could be leveraged for problem-solving and learning new technologies relevant to the support role. However, direct experience in troubleshooting, customer service, and specific hardware/software support is lacking."
+      }
+    },
+    {
+      "jobTitle": "Data Entry Specialist",
+      "matchScore": 55,
+      "reasoning": "While not directly related to web development, the candidate's skills in SQL/Database Management and their attention to detail (implied by their project work) could make them suitable for a data entry role. This is a less technical role but provides an entry point into a company where they could potentially transition to a more development-focused position later.",
+      "requiredSkills": [
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "Data Entry Software Proficiency",
+        "Typing Speed and Accuracy"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "breakdown": {
+          "skillsMatch": 15,
+          "experienceRelevance": 5,
+          "educationAlignment": 10,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "While the candidate possesses technical skills and some internship experience, the direct relevance to data entry is limited. Skills like Python, Java, and AI are not core to data entry. The internships are focused on web development, not data management or entry. The B.Tech degree provides a general foundation, but specific data entry training is absent. Potential exists due to general technical aptitude, but significant training would be required."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T21-21-56-918Z"
+}

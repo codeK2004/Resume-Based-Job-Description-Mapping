@@ -1,0 +1,173 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front End Intern, coupled with her skills in HTML and CSS, makes her a suitable candidate for a Junior Front-End Developer role. The projects she worked on, such as the Weather Forecast Application and Netflix Clone, demonstrate practical application of front-end technologies. Her full-stack internship also gives her a broader understanding of web development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 70,
+      "reasoning": "Given Alamanda's experience as both a Front End and Full Stack Intern, a Junior Web Developer position is a good fit. Her portfolio website and task manager application projects showcase her ability to work on full-stack projects. While she has some full-stack experience, she needs to strengthen her backend skills.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (Node.js, Python/Django, or similar)",
+        "RESTful APIs",
+        "Version Control (Git)",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "This is a very suitable role as it directly aligns with her previous internship experience. She already possesses the basic skills required for a front-end internship, and this role would allow her to further develop those skills and gain more practical experience.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React or Angular",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Full-Stack Developer Intern",
+      "matchScore": 80,
+      "reasoning": "Alamanda's experience as a Full Stack Intern makes her a strong candidate for another internship in this area. Her portfolio website and task manager application projects are relevant. This role will allow her to solidify her full-stack skills and gain more experience with different technologies.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (Node.js, Python/Django, or similar)",
+        "RESTful APIs",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Data Entry Associate",
+      "matchScore": 60,
+      "reasoning": "While not directly related to her development experience, Alamanda's skills in SQL/Database Management and general computer proficiency could make her suitable for a Data Entry Associate role. This is a less technical role but could provide her with valuable experience in a professional setting while she continues to develop her software development skills.",
+      "requiredSkills": [
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "Data Entry Software Proficiency",
+        "Typing Speed",
+        "Attention to Detail"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T22-24-20-972Z"
+}

@@ -1,0 +1,174 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front-End Intern, coupled with her skills in HTML and CSS, makes her a suitable candidate for a Junior Front-End Developer role. The projects she worked on, such as the Weather Forecast Application and Netflix Clone, demonstrate practical application of front-end technologies. Her portfolio website project also showcases her ability to build user interfaces. While she has a B.Tech degree, further development in JavaScript frameworks would significantly enhance her candidacy.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue.js",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given her prior internship experience and foundational skills, a Front-End Developer Internship is a very strong match. This allows her to build upon her existing knowledge and gain more practical experience in a professional setting. Her HTML and CSS skills are directly applicable, and the internship environment provides an opportunity to learn and grow.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Responsive Design",
+        "UI/UX Principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Junior Full-Stack Developer",
+      "matchScore": 65,
+      "reasoning": "Alamanda's Full Stack internship experience, combined with her skills in Java and SQL, positions her as a potential candidate for a Junior Full-Stack Developer role. The Task Manager application project indicates some understanding of back-end development. However, she needs to significantly strengthen her back-end skills and gain experience with relevant frameworks and technologies.",
+      "requiredSkills": [
+        "Java",
+        "SQL/Database Management",
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "REST APIs",
+        "Backend Frameworks (e.g., Spring, Django)",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Web Developer Intern",
+      "matchScore": 80,
+      "reasoning": "Considering her internship experience and the skills listed, a Web Developer Intern position is a good fit. This role would allow her to leverage her existing knowledge of HTML, CSS, and potentially Java (depending on the specific internship requirements) while gaining practical experience in building and maintaining websites. The internship would also provide opportunities to learn new technologies and improve her overall web development skills.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "Java",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Responsive Design",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer",
+      "matchScore": 55,
+      "reasoning": "While not directly related to her development experience, Alamanda's B.Tech degree and general technical aptitude, combined with her English communication skills, could make her a viable candidate for a Technical Support Engineer role. This role would require her to troubleshoot technical issues and provide support to customers. However, she would need to develop specific technical support skills and gain knowledge of relevant software and hardware.",
+      "requiredSkills": [
+        "English",
+        "Cybersecurity Fundamentals"
+      ],
+      "missingSkills": [
+        "Customer Service Skills",
+        "Troubleshooting Skills",
+        "Knowledge of specific software/hardware",
+        "Networking Fundamentals"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score due to rate limiting"
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T22-28-28-507Z"
+}

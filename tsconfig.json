@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "target": "ES2017",
+    "allowSyntheticDefaultImports": true,
+    "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,

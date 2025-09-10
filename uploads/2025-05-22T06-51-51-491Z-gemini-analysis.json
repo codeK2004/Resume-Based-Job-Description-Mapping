@@ -1,0 +1,222 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": null
+      },
+      {
+        "degree": "INTERMEDIATE EDUCATION",
+        "institution": "iClass CDR junior college",
+        "year": null
+      },
+      {
+        "degree": "SECONDARY EDUCATION",
+        "institution": "Pragathi Central School",
+        "year": null
+      }
+    ],
+    "work_experience": [
+      {
+        "title": "FULL STACK INTERN",
+        "company": "DevElet",
+        "years": "September 2024 - October2024",
+        "responsibilities": [
+          "Aspiring Full Stack Web Developer driven by growth in web development, AI, and Cybersecurity."
+        ]
+      },
+      {
+        "title": "FRONT END INTERN",
+        "company": "DevElet",
+        "years": "August 2024 - September 2024",
+        "responsibilities": [
+          "Developed Weather Forecast Application",
+          "Engineered Netflix Clone Platform",
+          "Created Personal Portfolio Website",
+          "Built A Task Manager Application"
+        ]
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Python",
+        "Java",
+        "Cybersecurity Fundamentals",
+        "HTML/CSS",
+        "Generative AI",
+        "SQL/Database Management",
+        "Machine Learning Algorithms"
+      ],
+      "soft": [
+        "English",
+        "Hindi",
+        "Telugu"
+      ]
+    },
+    "certifications": [
+      "Skilligence Ethical Hacking at IIT-Hyderabad",
+      "What is Generative AI- Linkedln Learning",
+      "CCNA: Introduction to Networks",
+      "Ethical Hacking -Internshala trainings",
+      "Web Development- Internshala trainings",
+      "Cambridge English Empower Level C1 Course",
+      "Wadhwani - JobReady Employability Skills"
+    ],
+    "projects": [
+      {
+        "name": "ILLEGAL FISHING DETECTION USING MACHINE LEARNING",
+        "description": "Uses machine learning to identify and prevent illegal fishing activities in real-time."
+      },
+      {
+        "name": "AUTOMATED VITAL SIGN MONITORING PLATFORM",
+        "description": "Tracks and monitors vital signs in real-time, providing automated health insights."
+      }
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Full Stack Developer",
+      "matchScore": 85,
+      "reasoning": "The candidate has experience as a Full Stack Intern and Front End Intern, demonstrating practical experience with relevant technologies. Their projects showcase their ability to build web applications and utilize machine learning. They possess a good foundation in both front-end (HTML/CSS) and back-end (Python, Java, SQL) technologies.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript",
+        "Python",
+        "SQL",
+        "Git",
+        "REST APIs"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Git",
+        "REST APIs"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 13,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "Bhaskararaju demonstrates a good foundation for a Junior Full Stack Developer role.  \n\n**Skills Match (22/30):** The candidate possesses a mix of relevant skills, including Python, HTML/CSS, and SQL. The inclusion of Java is a plus. The mention of Generative AI and Machine Learning Algorithms, while potentially valuable, needs further clarification regarding practical application in a full-stack context. The skills section is somewhat broad; specifying frameworks (e.g., React, Angular, Vue.js for frontend; Node.js, Django, Flask for backend) would significantly improve the score. The Ethical Hacking and Cybersecurity Fundamentals skills are less directly relevant but show a broader technical interest. \n\n**Experience Relevance (18/30):**  The internship experience at DevElet is valuable. The projects listed (Weather Forecast App, Netflix Clone, Portfolio, Task Manager) are typical for early-career developers and demonstrate practical application of frontend skills. The 'Full Stack Intern' title is promising, but the responsibilities listed are very general. The short durations of the internships (one month each) are a slight concern and warrant further exploration during an interview. More detail on the technologies used in each project would be beneficial. The illegal fishing detection and vital sign monitoring projects are less directly related to typical full-stack web development but show initiative and problem-solving skills.\n\n**Education Alignment (13/20):**  A B.Tech degree is generally aligned with the requirements of a Junior Full Stack Developer role. However, the resume lacks specific details about the major or coursework relevant to software development. More information about relevant courses (e.g., data structures, algorithms, software engineering) would improve the score. The intermediate and secondary education are standard and don't significantly impact the score.\n\n**Overall Potential (15/20):** Bhaskararaju demonstrates good potential. The internships, projects, and certifications indicate a proactive approach to learning and skill development. The candidate seems eager to learn and grow in the field. Further assessment during an interview is crucial to gauge their problem-solving abilities, teamwork skills, and adaptability. The candidate's passion for web development, AI, and Cybersecurity, as stated in their resume, is a positive indicator of motivation and future growth potential."
+      }
+    },
+    {
+      "jobTitle": "Front End Developer",
+      "matchScore": 80,
+      "reasoning": "The candidate's Front End Intern experience and portfolio projects (Netflix Clone, Personal Portfolio, Task Manager) highlight their front-end development skills. They have a solid understanding of HTML/CSS. The 'Web Development - Internshala trainings' certification further strengthens this.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript",
+        "React/Angular/Vue.js",
+        "Responsive Design",
+        "Git"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React/Angular/Vue.js",
+        "Responsive Design",
+        "Git"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score"
+      }
+    },
+    {
+      "jobTitle": "Data Science Intern",
+      "matchScore": 70,
+      "reasoning": "The candidate's skills in Python, Machine Learning Algorithms, and Generative AI, along with their project on 'ILLEGAL FISHING DETECTION USING MACHINE LEARNING,' make them a suitable candidate for a Data Science Intern role. Their education in B.TECH also supports this.",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "Statistical Modeling",
+        "Data Visualization"
+      ],
+      "missingSkills": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Data Visualization"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 20
+        },
+        "detailedAnalysis": "Bhaskararaju demonstrates a good foundation for a Data Science Intern role. The skills section lists relevant technical skills like Python, SQL, and Machine Learning Algorithms, earning a strong skills match score. However, the work experience, while showcasing web development projects, lacks direct data science experience, resulting in a moderate experience relevance score. The B.Tech degree aligns well with the educational requirements, but the lack of specific major information impacts the score slightly. The candidate's proactive approach to learning (certifications, projects) and the ambition to grow in AI contribute to a high overall potential score. The 'ILLEGAL FISHING DETECTION USING MACHINE LEARNING' project is particularly relevant. To improve, the candidate should focus on projects that explicitly demonstrate data analysis, modeling, and interpretation skills."
+      }
+    },
+    {
+      "jobTitle": "Cybersecurity Analyst (Entry-Level)",
+      "matchScore": 65,
+      "reasoning": "The candidate has listed 'Cybersecurity Fundamentals' as a skill and has a 'Skilligence Ethical Hacking at IIT-Hyderabad' certification, along with 'Ethical Hacking - Internshala trainings'. This indicates an interest and some foundational knowledge in cybersecurity. The CCNA certification also contributes to this.",
+      "requiredSkills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Intrusion Detection",
+        "Security Auditing",
+        "Incident Response"
+      ],
+      "missingSkills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Intrusion Detection",
+        "Security Auditing",
+        "Incident Response"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score"
+      }
+    },
+    {
+      "jobTitle": "AI/ML Engineer (Entry-Level)",
+      "matchScore": 60,
+      "reasoning": "The candidate possesses skills in 'Generative AI' and 'Machine Learning Algorithms'. The 'What is Generative AI- Linkedln Learning' certification and the 'ILLEGAL FISHING DETECTION USING MACHINE LEARNING' project demonstrate a basic understanding and application of these technologies. However, more in-depth experience is needed.",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow/PyTorch",
+        "Data Modeling"
+      ],
+      "missingSkills": [
+        "Deep Learning",
+        "TensorFlow/PyTorch",
+        "Data Modeling"
+      ],
+      "thresholdScore": {
+        "overallScore": 0,
+        "breakdown": {
+          "skillsMatch": 0,
+          "experienceRelevance": 0,
+          "educationAlignment": 0,
+          "overallPotential": 0
+        },
+        "detailedAnalysis": "Failed to calculate threshold score"
+      }
+    }
+  ],
+  "timestamp": "2025-05-22T06-51-51-491Z"
+}

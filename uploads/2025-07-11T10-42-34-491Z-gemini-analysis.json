@@ -1,0 +1,185 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front End Intern, coupled with her skills in HTML and CSS, makes her a suitable candidate for a Junior Front-End Developer role. The projects mentioned (Weather Forecast Application, Netflix Clone) demonstrate practical application of front-end technologies. Her full-stack internship also provides a broader understanding of web development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 38,
+        "selectionPercentage": 38,
+        "rejectionPercentage": 62,
+        "barGraphMetrics": {
+          "skillMatch": 20,
+          "experienceMatch": 5,
+          "educationMatch": 100,
+          "overallMatch": 100
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed based on the criteria for a Junior Front-End Developer position. The Skills Match score is 20% because out of the core front-end skills (HTML, CSS, JavaScript), only HTML and CSS were listed. Experience Relevance is low (5%) due to the short duration of the internships (2 months total) and the limited detail on project complexity. The expected experience for a junior role is assumed to be at least 12 months. Education Alignment is high (100%) as a B.Tech degree is generally acceptable. Overall Potential is moderate, considering the internships and basic front-end skills, but the lack of JavaScript experience is a significant drawback. For example, the candidate mentions developing a Netflix clone, but the resume lacks details on the technologies used beyond HTML and CSS."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given her prior internship experience, another front-end developer internship is a very realistic and suitable option. This allows her to build upon her existing skills and gain more practical experience before moving into a full-time role. Her projects demonstrate a basic understanding of front-end development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "UI/UX Principles",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 58,
+        "selectionPercentage": 58,
+        "rejectionPercentage": 42,
+        "barGraphMetrics": {
+          "skillMatch": 40,
+          "experienceMatch": 40,
+          "educationMatch": 90,
+          "overallMatch": 65
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for the Front-End Developer Intern position. Skills Match: The candidate possesses HTML and CSS, which are core front-end skills. Given the limited list of skills, the match is (2/5)*30 = 12 points. Experience Relevance: The candidate has two months of relevant internship experience. Assuming the expected experience for an intern is 5 months, the score is (2/5)*30 = 12 points. Education Alignment: The candidate has a B.Tech degree, which aligns with the educational requirements. The education match score is (90/100)*20 = 18 points. Overall Potential: The candidate demonstrates potential through their internship experiences and project descriptions. The potential score is (80/100)*20 = 16 points. The overall score is 12 + 12 + 18 + 16 = 58. The bar graph metrics are calculated as percentages: Skill Match (12/30)*100 = 40%, Experience Match (12/30)*100 = 40%, Education Match (18/20)*100 = 90%, Overall Match (58/90)*100 = 65%."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "Her full-stack internship experience, combined with her front-end skills, makes her a potential candidate for a Junior Web Developer role. This role would leverage both her front-end and back-end knowledge, even though her back-end skills are not explicitly detailed. The portfolio website and task manager application projects are relevant.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (e.g., Node.js, Python/Django)",
+        "RESTful APIs",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "selectionPercentage": 45,
+        "rejectionPercentage": 55,
+        "barGraphMetrics": {
+          "skillMatch": 33,
+          "experienceMatch": 17,
+          "educationMatch": 75,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for the Junior Web Developer position. Skills Match: The candidate possesses HTML and CSS, which are core requirements. Given the limited list of skills, the match is (2/6)*30 = 10 points. Experience Relevance: The candidate has two months of relevant internship experience. Assuming the expected experience is 12 months, the score is (2/12)*30 = 5 points. Education Alignment: The candidate has a B.Tech degree, which is relevant, but the field of study is not specified. Assuming a moderate alignment, the education match is (75/100)*20 = 15 points. Overall Potential: The candidate's internships show initiative and a willingness to learn. However, the short duration of the internships limits the assessment of their potential. A moderate potential score is (50/100)*20 = 10 points. Overall Score: 10 + 5 + 15 + 10 = 40. Skill Match: (2/6)*30 = 10, Experience Match: (2/12)*30 = 5, Education Match: (75/100)*20 = 15, Overall Potential: (50/100)*20 = 10. The overall score is 40. The selection percentage is 40, and the rejection percentage is 60. Bar graph metrics are: Skill Match: 33%, Experience Match: 17%, Education Match: 75%, Overall Match: 50%."
+      }
+    },
+    {
+      "jobTitle": "Entry-Level Software Engineer (General)",
+      "matchScore": 55,
+      "reasoning": "With a B.Tech degree and some internship experience, Alamanda could potentially qualify for a general entry-level software engineer position. However, the match score is lower because her resume lacks specific details about her programming skills beyond Java, HTML, and CSS. She would need to demonstrate a broader understanding of software development principles and practices.",
+      "requiredSkills": [
+        "Java",
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming",
+        "Software Design Principles",
+        "Version Control (Git)",
+        "Testing Methodologies"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "selectionPercentage": 55,
+        "rejectionPercentage": 45,
+        "barGraphMetrics": {
+          "skillMatch": 40,
+          "experienceMatch": 20,
+          "educationMatch": 80,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for an Entry-Level Software Engineer (General) position. Skills Match: The candidate lists Java, HTML, CSS, and SQL. Assuming the required skills include Java, HTML, CSS, and SQL, this results in a (4/10)*30 = 12 points. Experience Relevance: The candidate has 2 months of internship experience. Assuming the expected experience is 10 months, this results in (2/10)*30 = 6 points. Education Alignment: The candidate has a B.Tech degree. Assuming a B.Tech is a good match, this results in 16 points. Overall Potential: The candidate's internships show potential, but the short durations are a concern. The candidate also lists Cybersecurity Fundamentals and Machine Learning Algorithms, which are complementary skills. This results in 11 points."
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer",
+      "matchScore": 50,
+      "reasoning": "While not directly related to her development experience, her strong communication skills (English, Hindi, Telugu) and general technical aptitude could make her a candidate for a Technical Support Engineer role. This role would require her to troubleshoot technical issues and provide support to users. Her cybersecurity fundamentals knowledge could also be beneficial.",
+      "requiredSkills": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Cybersecurity Fundamentals"
+      ],
+      "missingSkills": [
+        "Customer Service Skills",
+        "Troubleshooting Methodologies",
+        "Specific Product Knowledge",
+        "Ticketing Systems"
+      ],
+      "thresholdScore": {
+        "overallScore": 35,
+        "selectionPercentage": 35,
+        "rejectionPercentage": 65,
+        "barGraphMetrics": {
+          "skillMatch": 20,
+          "experienceMatch": 5,
+          "educationMatch": 100,
+          "overallMatch": 25
+        },
+        "detailedAnalysis": "The candidate's skills include HTML, CSS, and SQL, which are beneficial for a Technical Support Engineer role, resulting in a skill match score of 20%. The candidate's internship experience is short and not directly related to technical support, leading to a low experience score of 5%. The B.Tech degree aligns well with the educational requirements, resulting in a 100% education match. The overall potential is estimated at 25% based on the candidate's technical skills and internship experience, but the lack of direct technical support experience limits the score. For example, experience with ticketing systems or direct customer interaction is missing."
+      }
+    }
+  ],
+  "timestamp": "2025-07-11T10-42-34-491Z"
+}

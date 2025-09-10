@@ -1,0 +1,209 @@
+{
+  "resumeAnalysis": {
+    "Name": "ALAMANDA STEFFANIE GRACE",
+    "Email": "gracealamanda377@gmail.com",
+    "Phone": "9989654665",
+    "Education": [
+      {
+        "Degree": "B.TECH",
+        "Institution": "Malla Reddy College of Engineering and Technology",
+        "CGPA": "9.33"
+      },
+      {
+        "Degree": "INTERMEDIATE EDUCATION",
+        "Institution": "Resonance Junior College",
+        "CGPA": "8.4"
+      },
+      {
+        "Degree": "SECONDARY EDUCATION",
+        "Institution": "St.Anns High School",
+        "CGPA": "9.7"
+      }
+    ],
+    "Work Experience": [
+      {
+        "Title": "FRONT END INTERN",
+        "Company": "DevElet",
+        "Years": "August 2024 - September 2024",
+        "Responsibilities": [
+          "Developed Weather Forecast Application",
+          "Developed a Netflix Clone"
+        ]
+      },
+      {
+        "Title": "FULL STACK INTERN",
+        "Company": "DevElet",
+        "Years": "September 2024 - October 2024",
+        "Responsibilities": [
+          "Created Personal Portfolio Website",
+          "Developed Task Manager Application"
+        ]
+      }
+    ],
+    "Skills": {
+      "Technical Skills": [
+        "Java",
+        "Cybersecurity Fundamentals",
+        "SQL/Database Management",
+        "Machine Learning Algorithms",
+        "HTML",
+        "CSS"
+      ],
+      "Soft Skills": [
+        "English",
+        "Hindi",
+        "Telugu"
+      ]
+    },
+    "Certifications": [
+      "Skilligence Ethical Hacking at IIT-Hyderabad",
+      "CodeKaro - HTML, CSS (10/2024)",
+      "Internshala - Ethical Hacking (10/2024 - 11/2024)",
+      "Internshala - Web Development",
+      "Cambridge English Empower Level C1 Course",
+      "Wadhwani - JobReady Employability Skills"
+    ],
+    "Projects": [
+      "DEEPVISION: DEEPFAKE DETECTION USING DEEPLEARNING - Detects DeepFake content using deep learning techniques to ensure authenticity in digital media.",
+      "SPEAKSOLVE: VOICE ASSISTED SCIENTIFIC CALCULATOR - A voice-assisted scientific calculator that solves complex equations through voice commands for hands-free convenience."
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Front-End Developer",
+      "matchScore": 85,
+      "reasoning": "Strong foundation in HTML, CSS, and experience developing web applications (Netflix Clone, Personal Portfolio Website). Internship experience as a Front End Intern. Project experience demonstrates ability to build user interfaces.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Web Development"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 18,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "Alamanda's resume indicates a decent foundation for a Front-End Developer role, but also highlights areas for improvement. \n\n**Skills Match (20/30):** While the resume lists HTML and CSS, which are core front-end skills, there's no mention of JavaScript or any modern front-end frameworks/libraries like React, Angular, or Vue.js. This is a significant gap. The other technical skills listed, such as Java, SQL, Machine Learning, and Cybersecurity Fundamentals, are not directly relevant to front-end development. The CodeKaro HTML/CSS certification is a positive, but the lack of JavaScript and framework experience limits the score. \n\n**Experience Relevance (15/30):** The internship experiences at DevElet are relevant, particularly the Netflix Clone and Personal Portfolio Website projects. These suggest some practical experience with front-end technologies. However, the short duration of each internship (1-2 months) and the lack of detail about the specific front-end technologies used within those projects limits the score. The Task Manager application could have involved front-end work, but it is not explicitly stated. \n\n**Education Alignment (18/20):** A B.Tech degree is generally well-aligned with a developer role. The high CGPA (9.33) indicates strong academic performance. The intermediate and secondary education also show a good academic record. \n\n**Overall Potential (15/20):** Alamanda demonstrates potential through her academic achievements, internships, and projects. The Deepfake Detection and Voice-Assisted Calculator projects showcase problem-solving abilities and technical aptitude. The certifications in Ethical Hacking and Web Development suggest a willingness to learn and explore different areas of technology. However, to fully realize her potential as a front-end developer, she needs to focus on acquiring JavaScript and framework skills."
+      }
+    },
+    {
+      "jobTitle": "Web Developer",
+      "matchScore": 80,
+      "reasoning": "Experience as a Full Stack Intern and projects like the Personal Portfolio Website and Task Manager Application demonstrate full-stack capabilities. Certifications in Web Development and experience with HTML and CSS are relevant.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Backend Framework (e.g., Node.js, Python/Django)",
+        "Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (e.g., Node.js, Python/Django)"
+      ],
+      "thresholdScore": {
+        "overallScore": 78,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 20,
+          "educationAlignment": 18,
+          "overallPotential": 18
+        },
+        "detailedAnalysis": "Alamanda demonstrates a good foundation for a Web Developer role. Her B.Tech degree with a high CGPA indicates strong academic aptitude. The internships at DevElet, specifically the 'Netflix Clone' and 'Personal Portfolio Website' projects, directly align with front-end and full-stack development experience. Her skills include HTML and CSS, which are essential for the position. However, the skills list is somewhat limited in specific front-end frameworks (e.g., React, Angular, Vue) and back-end technologies (e.g., Node.js, Python/Django, Ruby on Rails), which are often required for modern web development. The 'CodeKaro' and 'Internshala' certifications in HTML/CSS and Web Development further strengthen her profile. The projects, while interesting, lack specific details on the technologies used and the candidate's individual contributions. Her overall potential is high due to her strong academic record and internship experience, but further development in specific web development technologies is needed."
+      }
+    },
+    {
+      "jobTitle": "Cybersecurity Analyst (Entry-Level)",
+      "matchScore": 75,
+      "reasoning": "Certifications in Ethical Hacking and knowledge of Cybersecurity Fundamentals are a good starting point. While lacking practical experience, the interest and foundational knowledge are present.",
+      "requiredSkills": [
+        "Cybersecurity Fundamentals",
+        "Network Security",
+        "Penetration Testing",
+        "Incident Response",
+        "Security Tools"
+      ],
+      "missingSkills": [
+        "Network Security",
+        "Penetration Testing",
+        "Incident Response",
+        "Security Tools"
+      ],
+      "thresholdScore": {
+        "overallScore": 78,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 18,
+          "overallPotential": 20
+        },
+        "detailedAnalysis": "Alamanda demonstrates a good foundation for an entry-level Cybersecurity Analyst role. Her B.Tech degree aligns well with the educational requirements (18/20). The certifications in Ethical Hacking are a significant plus, indicating a genuine interest in cybersecurity. While her internship experience is primarily focused on front-end and full-stack development, the projects like Deepfake detection showcase an understanding of relevant technologies and problem-solving skills applicable to cybersecurity (18/30). Her technical skills include Cybersecurity Fundamentals and SQL/Database Management, which are relevant, but lack depth in core cybersecurity areas. This results in a moderate score for skills match (22/30). Her overall potential is high (20/20) due to her strong academic record, proactive approach to learning (multiple certifications), and demonstrated ability to develop and implement projects. With further training and hands-on experience, she can quickly become a valuable asset to a cybersecurity team."
+      }
+    },
+    {
+      "jobTitle": "Junior Java Developer",
+      "matchScore": 70,
+      "reasoning": "Possesses Java skills and a strong educational background in B.Tech. The projects and internships, while not solely Java-focused, indicate a capacity for software development.",
+      "requiredSkills": [
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Software Development Life Cycle"
+      ],
+      "missingSkills": [
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Software Development Life Cycle"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 17,
+          "overallPotential": 18
+        },
+        "detailedAnalysis": "Alamanda's profile shows a promising foundation for a Junior Java Developer role. \n\n**Skills Match (22/30):**  She lists Java as a technical skill, which is crucial. The presence of SQL/Database Management is also a plus. While HTML and CSS are more front-end focused, the Full Stack internship suggests some familiarity with back-end concepts. The lack of specific Java frameworks (Spring, Hibernate, etc.) is a slight weakness at this level.  Cybersecurity and Machine Learning are not directly relevant but demonstrate a willingness to learn. Score reflects the core Java skill and related database knowledge, but a lack of Java framework experience.\n\n**Experience Relevance (18/30):** The internship experience, while short, is valuable. The Full Stack internship is more relevant than the Front End one. The descriptions of the projects, especially the Task Manager Application, suggest some back-end development experience. The portfolio website development also hints at full-stack capabilities. However, the brief duration of the internships and lack of specific Java-related project details limit the score. More detail on the back-end technologies used in the Task Manager application would significantly improve this score.  The score reflects the full-stack experience but is tempered by the short duration and lack of specific Java project details.\n\n**Education Alignment (17/20):** A B.Tech degree is a strong positive. A high CGPA (9.33) indicates strong academic performance. The education is directly relevant to the role. Score reflects the relevant degree and strong academic performance.\n\n**Overall Potential (18/20):** Alamanda demonstrates a strong aptitude for learning and a proactive approach to skill development through certifications and projects. The Cambridge English Empower Level C1 Course suggests good communication skills. The projects, while not explicitly Java-focused, showcase problem-solving abilities. The ethical hacking certifications demonstrate an interest in security, which is a valuable asset. The score reflects the candidate's potential for growth and contribution, based on their academic achievements, certifications, and project work. The proactive approach to learning is a significant positive factor."
+      }
+    },
+    {
+      "jobTitle": "Data Analyst",
+      "matchScore": 65,
+      "reasoning": "Knowledge of SQL/Database Management and Machine Learning Algorithms, combined with strong analytical skills implied by the academic performance, makes this a viable option. The Deepfake detection project showcases practical application of ML concepts.",
+      "requiredSkills": [
+        "SQL",
+        "Data Analysis",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Machine Learning"
+      ],
+      "missingSkills": [
+        "Data Analysis",
+        "Data Visualization",
+        "Statistical Analysis"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "Alamanda's profile shows a good foundation for a Data Analyst role, but lacks direct experience. Her B.Tech degree and strong CGPA are positives. The technical skills listed, including SQL/Database Management and Machine Learning Algorithms, are relevant, but the depth of knowledge is unclear. The projects, particularly 'DEEPVISION,' suggest some understanding of data analysis techniques. However, the work experience is primarily focused on front-end and full-stack development, which are less directly applicable. The certifications in Ethical Hacking and Web Development, while valuable, don't strongly align with core data analysis skills. Overall, Alamanda demonstrates potential, but would likely require further training and development to excel as a Data Analyst. Stronger project work showcasing data analysis skills would significantly improve her profile."
+      }
+    }
+  ],
+  "timestamp": "2025-05-22T06-50-31-917Z"
+}

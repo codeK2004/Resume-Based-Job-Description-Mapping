@@ -1,0 +1,183 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front End Intern, coupled with her skills in HTML and CSS, makes her a suitable candidate for a Junior Front-End Developer role. The projects mentioned (Weather Forecast Application, Netflix Clone) demonstrate practical application of front-end technologies. Her Full Stack internship also provides a broader understanding of web development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 38,
+        "selectionPercentage": 38,
+        "rejectionPercentage": 62,
+        "barGraphMetrics": {
+          "skillMatch": 20,
+          "experienceMatch": 5,
+          "educationMatch": 100,
+          "overallMatch": 100
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed based on the criteria for a Junior Front-End Developer position. The Skills Match score is 20% because the candidate lists HTML and CSS, which are core front-end skills. However, the resume also lists skills like Java, Cybersecurity Fundamentals, SQL/Database Management, and Machine Learning Algorithms, which are not directly relevant to a front-end role. The Experience Relevance score is 5% because the candidate has two months of front-end internship experience. The expected experience for a junior role is assumed to be 12 months. The Education Alignment score is 100% because the candidate has a B.Tech degree, which is generally acceptable for this role. The Overall Potential score is low because the candidate's experience is limited and the skills listed are not strongly aligned with front-end development."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given her prior internship experience, another Front-End Developer Internship is a very suitable match. This allows her to further hone her existing skills and gain more practical experience before moving into a full-time role. The projects she's worked on align well with the responsibilities of a front-end intern.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "UI/UX Principles",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 58,
+        "selectionPercentage": 58,
+        "rejectionPercentage": 42,
+        "barGraphMetrics": {
+          "skillMatch": 40,
+          "experienceMatch": 40,
+          "educationMatch": 90,
+          "overallMatch": 65
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for the Front-End Developer Intern position. Skills Match: The candidate lists HTML and CSS, which are core front-end skills. Assuming the required skills include HTML, CSS, JavaScript, and a Front-End Framework (e.g., React, Angular, or Vue), the candidate has 2 out of 5 core skills (excluding supplementary skills). (2/5) * 30 = 12. Experience Relevance: The candidate has two months of front-end intern experience and one month of full-stack intern experience where they developed a portfolio website and a Netflix clone. Assuming the expected experience is 5 months, (2/5) * 30 = 12. Education Alignment: The candidate has a B.Tech degree. Assuming a B.Tech is a good fit, the education alignment score is 90%. (90/100) * 20 = 18. Overall Potential: The candidate has some relevant project experience and a technical degree, indicating a moderate learning curve. The candidate also lists full-stack experience, which is a plus. Potential score is estimated at 65%. (65/100) * 20 = 13. Overall Score: 12 + 12 + 18 + 13 = 55. Selection Percentage: 55%. Rejection Percentage: 45%. Bar Graph Metrics: Skill Match: (12/30) * 100 = 40%. Experience Match: (12/30) * 100 = 40%. Education Match: 90%. Overall Match: (65/100) * 100 = 65%. The overall score is adjusted to 58 to reflect a slightly higher potential due to the full-stack experience."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "Her experience as a Full Stack Intern, where she created a Personal Portfolio Website and a Task Manager Application, indicates some familiarity with full-stack development concepts. While her skills are currently more front-end focused, a Junior Web Developer role could be a good fit if she's willing to learn more back-end technologies.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Back-end Frameworks (Node.js, Python/Django)",
+        "API Development",
+        "Database Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "selectionPercentage": 45,
+        "rejectionPercentage": 55,
+        "barGraphMetrics": {
+          "skillMatch": 33,
+          "experienceMatch": 17,
+          "educationMatch": 75,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for the Junior Web Developer position. Skills Match: The candidate possesses HTML and CSS skills, which are core requirements. However, the resume lacks other critical web development skills such as JavaScript and specific frameworks. (2/6) * 30 = 10 points. Experience Relevance: The candidate has 2 months of internship experience. Assuming the expected experience for a junior role is 12 months, (2/12) * 30 = 5 points. Education Alignment: The candidate has a B.Tech degree, which is relevant. Assuming a 75% alignment due to the general nature of the degree, (75/100) * 20 = 15 points. Overall Potential: The candidate's internships demonstrate a willingness to learn and apply skills. However, the short duration and lack of specific project details limit the assessment of their potential. A score of 50% is assigned, (50/100) * 20 = 10 points. Total score: 10 + 5 + 15 + 10 = 40. The bar graph metrics are calculated as percentages of the maximum possible score for each category."
+      }
+    },
+    {
+      "jobTitle": "Web Development Intern",
+      "matchScore": 80,
+      "reasoning": "Considering her previous internships, a Web Development Internship provides a good opportunity to expand her skills in both front-end and back-end development. The experience gained from her previous internships will be valuable in this role.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git)",
+        "Back-end Fundamentals"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "selectionPercentage": 65,
+        "rejectionPercentage": 35,
+        "barGraphMetrics": {
+          "skillMatch": 50,
+          "experienceMatch": 60,
+          "educationMatch": 80,
+          "overallMatch": 65
+        },
+        "detailedAnalysis": "The candidate's resume indicates a moderate fit for the Web Development Intern position. The skills match is 50% based on the presence of HTML and CSS, core web development skills, alongside other skills like Java and SQL. Experience relevance is at 60% due to the two internships, specifically the 'FRONT END INTERN' and 'FULL STACK INTERN' roles at DevElet, where they developed a Netflix clone and a personal portfolio website, demonstrating relevant project experience. Education alignment scores 80% as the B.TECH degree is relevant, though the field of study isn't specified. Overall potential is estimated at 65% considering the internships and the variety of skills listed, suggesting a good learning curve. For example, the Netflix clone project directly aligns with front-end web development, while the task manager application suggests full-stack capabilities."
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer",
+      "matchScore": 55,
+      "reasoning": "While not directly related to her development experience, her strong communication skills (English, Hindi, Telugu) and general technical aptitude could make her a suitable candidate for a Technical Support Engineer role, especially if the company provides training on specific technologies. Her understanding of basic programming concepts could be helpful in troubleshooting issues.",
+      "requiredSkills": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Cybersecurity Fundamentals"
+      ],
+      "missingSkills": [
+        "Specific product knowledge (depending on the company)",
+        "Troubleshooting skills",
+        "Customer service skills"
+      ],
+      "thresholdScore": {
+        "overallScore": 35,
+        "selectionPercentage": 35,
+        "rejectionPercentage": 65,
+        "barGraphMetrics": {
+          "skillMatch": 30,
+          "experienceMatch": 5,
+          "educationMatch": 0,
+          "overallMatch": 18
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for the Technical Support Engineer position. The skills match is relatively low, scoring 30% due to limited overlap with typical technical support requirements. While the candidate lists HTML and CSS, core support skills like troubleshooting, networking, or specific software support are absent. The experience relevance is very low, scoring 5%, as the internships are short and focused on development rather than support. The education alignment is minimal, scoring 0%, as the resume lacks specific details about the B.Tech specialization and its relevance to technical support. Overall potential is moderate, scoring 18%, considering the candidate's internship experience and basic technical skills, but significant training would be required. For example, the candidate's experience developing web applications doesn't directly translate to troubleshooting network issues or assisting users with software problems."
+      }
+    }
+  ],
+  "timestamp": "2025-07-11T05-55-57-378Z"
+}

@@ -1,0 +1,186 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front End Intern, coupled with her HTML and CSS skills, makes her a suitable candidate for a Junior Front-End Developer role. The projects mentioned (Weather Forecast Application, Netflix Clone) demonstrate practical application of front-end technologies. While she has some full-stack experience, the stronger alignment is with front-end development based on the provided details.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue.js",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 35,
+        "selectionPercentage": 35,
+        "rejectionPercentage": 65,
+        "barGraphMetrics": {
+          "skillMatch": 33,
+          "experienceMatch": 17,
+          "educationMatch": 50,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate's resume shows a limited match for a Junior Front-End Developer position. The skills section lists HTML and CSS, which are core front-end skills, resulting in a skill match score of 33% (2/6, assuming JavaScript, React/Angular/Vue, and responsive design are also required). The experience is brief (2 months total) and recent, but relevant, contributing to an experience score of 17% (2/12 months, assuming 12 months is the expected experience). The B.Tech degree is somewhat relevant, resulting in an education match score of 50%. Overall potential is moderate, considering the internship experience and basic front-end skills, leading to an overall score of 35."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given her previous internship experience and the limited duration of those internships, another Front-End Developer Internship would be a very suitable next step. This allows her to further develop her skills and gain more practical experience before moving into a full-time role. Her existing HTML and CSS skills are a good foundation.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue.js",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "selectionPercentage": 55,
+        "rejectionPercentage": 45,
+        "barGraphMetrics": {
+          "skillMatch": 33,
+          "experienceMatch": 33,
+          "educationMatch": 70,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of front-end development. Skills Match: The resume lists HTML and CSS, which are core front-end skills. Assuming the job requires HTML, CSS, and JavaScript (as is typical), the skill match is (2/6)*30 = 10 points. Experience Relevance: The candidate has two months of front-end intern experience. Assuming the ideal candidate has 6 months of experience, the experience score is (2/6)*30 = 10 points. The projects mentioned (Weather Forecast Application, Netflix Clone, Personal Portfolio Website, Task Manager Application) are relevant. Education Alignment: The candidate has a B.Tech degree. Assuming a B.Tech is a good fit, the education score is (70/100)*20 = 14 points. Overall Potential: The candidate has intern experience, showing initiative. The candidate also has full stack experience, which is a plus. Potential score is (50/100)*20 = 10 points. Overall Score: 10 + 10 + 14 + 10 = 44."
+      }
+    },
+    {
+      "jobTitle": "Junior Full-Stack Developer",
+      "matchScore": 65,
+      "reasoning": "Alamanda's experience as a Full Stack Intern, along with her knowledge of HTML, CSS, and SQL, positions her as a potential candidate for a Junior Full-Stack Developer role. The Personal Portfolio Website and Task Manager Application projects indicate some full-stack capabilities. However, the limited duration of the internship and the lack of specific back-end technology mentions (e.g., Node.js, Python, etc.) lower the match score.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "REST APIs",
+        "Version Control (Git)",
+        "Back-end Frameworks (e.g., Express, Django)"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "selectionPercentage": 45,
+        "rejectionPercentage": 55,
+        "barGraphMetrics": {
+          "skillMatch": 30,
+          "experienceMatch": 15,
+          "educationMatch": 0,
+          "overallMatch": 25
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for the Junior Full-Stack Developer position. The Skills Match score is 30% because the candidate possesses HTML and CSS, which are essential front-end skills. The Experience Relevance score is 15% due to the limited duration (2 months) of relevant internship experience as a Full Stack Intern. The Education Alignment score is 0% because the resume lacks specific details about the field of study within the B.Tech degree. The Overall Potential score is 25% based on the internship experience and the presence of some relevant skills, suggesting a moderate learning curve. For example, the Task Manager application project is a good indicator of full-stack capabilities."
+      }
+    },
+    {
+      "jobTitle": "Web Developer",
+      "matchScore": 70,
+      "reasoning": "With experience in both front-end and full-stack development through her internships, Alamanda is a reasonable fit for a Web Developer role. Her skills in HTML, CSS, and SQL are relevant. The match score reflects the need for further development in specific web development technologies.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Web Frameworks (e.g., React, Angular, Vue.js, Django, Flask)"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "selectionPercentage": 45,
+        "rejectionPercentage": 55,
+        "barGraphMetrics": {
+          "skillMatch": 20,
+          "experienceMatch": 10,
+          "educationMatch": 15,
+          "overallMatch": 23
+        },
+        "detailedAnalysis": "The candidate's resume was analyzed for the Web Developer position. The Skills Match score is 20% because the candidate possesses HTML and CSS skills, which are essential for a web developer, but lacks other critical skills like JavaScript and specific framework knowledge (e.g., React, Angular, Vue). The Experience Relevance score is 10% due to the short duration of the internships (August 2024 - October 2024) and the limited detail on the complexity of the projects. While developing a Weather Forecast Application, Netflix Clone, Personal Portfolio Website, and Task Manager Application are relevant, the brief internship duration impacts the score. The Education Alignment score is 15% because the candidate has a B.Tech degree, which is somewhat relevant, but the field of study is not specified, and the recency is not clear. The Overall Potential score is 23% because the candidate has internship experience and some relevant skills, suggesting a capacity to learn and adapt, but the lack of depth in web development-specific skills limits the potential score. For example, the candidate mentions Java and Machine Learning Algorithms, which are not core to front-end web development."
+      }
+    },
+    {
+      "jobTitle": "Associate Software Engineer",
+      "matchScore": 55,
+      "reasoning": "Given her B.Tech degree and some internship experience, Alamanda could potentially qualify for an entry-level Associate Software Engineer position. However, the resume lacks details on specific programming languages and software development methodologies beyond Java. The match score reflects the need for broader and deeper software engineering skills.",
+      "requiredSkills": [
+        "Java",
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming Principles",
+        "Software Design Patterns",
+        "Version Control (Git)",
+        "Testing Frameworks",
+        "Agile Development"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "selectionPercentage": 45,
+        "rejectionPercentage": 55,
+        "barGraphMetrics": {
+          "skillMatch": 30,
+          "experienceMatch": 15,
+          "educationMatch": 100,
+          "overallMatch": 56
+        },
+        "detailedAnalysis": "The candidate's resume shows a B.Tech degree, aligning well with the education requirements (Education Alignment: 20/20). The candidate possesses skills in Java, HTML, and CSS, which are relevant for a Software Engineer role (Skills Match: 9/30). The candidate has two internships, one as a Front End Intern and another as a Full Stack Intern, totaling 2 months of experience. Given the short duration and intern level, the experience relevance is limited (Experience Relevance: 4.5/30). The candidate's potential is moderate, considering the limited professional experience but relevant skills (Overall Potential: 11.25/20). Example: The candidate's skills in HTML and CSS are directly applicable to front-end development tasks."
+      }
+    }
+  ],
+  "timestamp": "2025-07-11T10-32-59-918Z"
+}

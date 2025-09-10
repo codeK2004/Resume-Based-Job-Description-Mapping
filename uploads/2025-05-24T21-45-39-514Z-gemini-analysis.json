@@ -1,0 +1,189 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Frontend Developer",
+      "matchScore": 75,
+      "reasoning": "Based on the candidate's internship experience as a Frontend Intern and the projects listed (Weather Forecast Application, Netflix Clone Platform, Personal Portfolio Website, Task Manager Application), this role is a good fit. The candidate possesses fundamental skills in HTML/CSS, which are essential for frontend development. The match score reflects the need for further development in advanced frontend frameworks and libraries.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript (implied from projects)",
+        "Problem-solving",
+        "Basic understanding of web development principles"
+      ],
+      "missingSkills": [
+        "React",
+        "Angular",
+        "Vue.js",
+        "State Management (Redux, Context API)",
+        "Testing frameworks (Jest, Mocha)",
+        "Version control (Git)",
+        "Responsive design principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of frontend technologies (HTML/CSS) and some relevant project experience. However, the listed skills are broad and lack specific frontend frameworks (React, Angular, Vue). The internship experience is short. Education is relevant, but lacks specific details. Overall potential is moderate, requiring further assessment of technical depth and problem-solving abilities."
+      }
+    },
+    {
+      "jobTitle": "Web Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given the candidate's internship experience and the projects they've worked on, a Web Developer Intern position is a strong match. This role allows them to further develop their skills in both frontend and backend technologies. The match score is high due to the direct relevance of their internship experience.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript (implied)",
+        "Basic understanding of backend concepts",
+        "Problem-solving",
+        "Eagerness to learn"
+      ],
+      "missingSkills": [
+        "Specific backend framework (Node.js, Django, Flask)",
+        "Database experience (MongoDB, PostgreSQL)",
+        "API development",
+        "Version control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 78,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 23,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant web development skills (HTML/CSS, Python, Java). Experience as a Front End and Full Stack intern is relevant, though the duration of the Full Stack internship is short. Education in B.Tech is aligned with the internship. Overall potential is promising given the skills and experience, but further assessment of practical abilities is recommended."
+      }
+    },
+    {
+      "jobTitle": "Frontend Developer (Entry-Level)",
+      "matchScore": 65,
+      "reasoning": "While the candidate has relevant internship experience, transitioning directly into an entry-level Frontend Developer role might require further skill development. The projects listed demonstrate a basic understanding of frontend development, but more advanced skills are needed. The match score reflects this gap.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript (implied)",
+        "Basic understanding of web development principles",
+        "Problem-solving"
+      ],
+      "missingSkills": [
+        "React",
+        "Angular",
+        "Vue.js",
+        "State Management (Redux, Context API)",
+        "Testing frameworks (Jest, Mocha)",
+        "Version control (Git)",
+        "Responsive design principles",
+        "Accessibility (ARIA)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of frontend technologies (HTML/CSS) and has some relevant project experience. However, the listed skills are broad and lack depth in core frontend frameworks (React, Angular, Vue). The internship experience is short. Education is relevant, but the lack of a graduation year is a minor concern. Overall potential is moderate, requiring further assessment of coding abilities and problem-solving skills."
+      }
+    },
+    {
+      "jobTitle": "Junior Full Stack Developer",
+      "matchScore": 55,
+      "reasoning": "The candidate expresses interest in Full Stack development and has some internship experience. However, the resume lacks specific details about backend skills. The match score is lower because the candidate needs to demonstrate proficiency in backend technologies.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript (implied)",
+        "Basic understanding of frontend and backend concepts",
+        "Problem-solving"
+      ],
+      "missingSkills": [
+        "Backend framework (Node.js, Django, Flask)",
+        "Database experience (MongoDB, PostgreSQL)",
+        "API development",
+        "Version control (Git)",
+        "Deployment experience"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of relevant technologies (HTML/CSS, Python, Java, SQL). Internship experience provides some practical exposure, but lacks specific project details and quantifiable achievements. Education is relevant, but the year of graduation is missing, making it difficult to assess experience level accurately. Overall potential is moderate, contingent on further skill development and practical application."
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer",
+      "matchScore": 60,
+      "reasoning": "Given the candidate's skills in Cybersecurity Fundamentals, Generative AI, and Machine Learning Algorithms, combined with their communication skills (English, Hindi, Telugu), a Technical Support Engineer role could be a viable option. This role would allow them to leverage their technical knowledge to assist users and troubleshoot issues. The match score reflects the need for specific product knowledge and customer service skills.",
+      "requiredSkills": [
+        "Cybersecurity Fundamentals",
+        "Generative AI",
+        "Machine Learning Algorithms",
+        "English",
+        "Problem-solving",
+        "Communication skills"
+      ],
+      "missingSkills": [
+        "Specific product knowledge related to the company's offerings",
+        "Customer service skills",
+        "Troubleshooting experience",
+        "Ticketing systems (e.g., Jira, Zendesk)"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 15,
+          "experienceRelevance": 10,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, aligning moderately with the educational requirements. Skills like Python, SQL, and basic cybersecurity knowledge are relevant, but lack specific technical support skills. Internship experience in web development is not directly relevant to technical support. Overall potential is moderate, contingent on the candidate's ability to quickly learn and adapt to technical support tasks."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T21-45-39-514Z"
+}

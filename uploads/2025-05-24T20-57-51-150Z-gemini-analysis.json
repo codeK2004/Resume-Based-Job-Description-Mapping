@@ -1,0 +1,170 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front End Intern, coupled with her skills in HTML and CSS, makes her a suitable candidate for a Junior Front-End Developer role. The experience developing a Netflix clone and a weather forecast application demonstrates practical application of front-end technologies. Her full-stack internship further enhances her understanding of the overall web development process.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which aligns reasonably well with the educational requirements for a Junior Front-End Developer. Their internship experience includes front-end development tasks such as building a Netflix clone and a personal portfolio, demonstrating some practical experience. The skills listed include HTML and CSS, which are essential for the role, but lack mention of Javascript and modern front-end frameworks. Overall potential is moderate, contingent on rapid skill development in key areas."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given her prior internship experience, another front-end internship is a very realistic and suitable option. This allows her to further solidify her skills and gain more practical experience before moving into a full-time role. Her existing skills in HTML and CSS are directly applicable.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (e.g., React, Angular, Vue)",
+        "UI/UX Principles",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates some relevant front-end skills (HTML, CSS) and has internship experience, including projects like a Netflix clone and a portfolio website, which are relevant. However, the skills list includes unrelated items like Java, Cybersecurity, SQL, and Machine Learning, suggesting a lack of focus. The education is a B.Tech, which is generally aligned, but the lack of a specified graduation year is a minor concern. Overall potential is moderate, pending further assessment of coding proficiency and problem-solving abilities."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "Alamanda's full-stack internship experience, along with her skills in HTML, CSS, and SQL, positions her as a potential candidate for a Junior Web Developer role. While she lacks specific back-end skills mentioned in the resume, her full-stack experience suggests a basic understanding of server-side development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Back-end Frameworks (e.g., Node.js, Python/Django)",
+        "API Development",
+        "Database Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which aligns moderately with the educational requirements for a Junior Web Developer. The candidate's internship experience at DevElet, focusing on front-end and full-stack development, is relevant. The skills listed include HTML and CSS, which are essential, but lack JavaScript and other front-end frameworks. The inclusion of Java, SQL, Cybersecurity, and Machine Learning, while valuable, are not directly relevant to the role. Overall potential is moderate, contingent on rapid acquisition of missing front-end skills."
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer (Entry-Level)",
+      "matchScore": 55,
+      "reasoning": "While not directly related to her development experience, her general technical skills and communication skills (English) could make her suitable for an entry-level technical support role. Her understanding of cybersecurity fundamentals could also be beneficial.",
+      "requiredSkills": [
+        "Cybersecurity Fundamentals",
+        "English",
+        "Technical Aptitude"
+      ],
+      "missingSkills": [
+        "Specific product knowledge related to the support role",
+        "Troubleshooting methodologies",
+        "Customer service skills"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which aligns with the educational requirements for an entry-level technical support engineer. The candidate's internship experience, while brief, demonstrates exposure to front-end and full-stack development, indicating a foundational understanding of software development principles. The listed skills include Java, SQL, HTML, and CSS, which are relevant to troubleshooting and supporting software applications. However, the resume lacks specific technical support experience. The overall potential is moderate, suggesting the candidate could be successful with appropriate training and mentorship."
+      }
+    },
+    {
+      "jobTitle": "Data Entry Associate",
+      "matchScore": 45,
+      "reasoning": "This is a lower-level role, but her skills in SQL/Database Management and general computer literacy make her potentially suitable. This would be a fallback option if other roles are unavailable.",
+      "requiredSkills": [
+        "SQL/Database Management",
+        "English",
+        "Basic Computer Skills"
+      ],
+      "missingSkills": [
+        "Data entry speed and accuracy",
+        "Specific software knowledge related to data entry",
+        "Attention to detail"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "While the candidate possesses technical skills (Java, HTML, CSS, SQL), their experience as a Front End and Full Stack Intern is not directly related to data entry. The B.Tech degree provides a foundation, but specific data entry skills are not evident. Overall potential is moderate, requiring training and development in data entry specific tasks."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T20-57-51-150Z"
+}

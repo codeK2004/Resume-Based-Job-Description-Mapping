@@ -1,0 +1,210 @@
+{
+  "resumeAnalysis": {
+    "Name": "BHASKARARAJU NARASIMHA KASYAP",
+    "Email": "kasyap180305@gmail.com",
+    "Phone": "7330992922",
+    "Education": [
+      {
+        "Degree": "B.TECH",
+        "Institution": "Malla Reddy College of Engineering and Technology",
+        "Years": null
+      },
+      {
+        "Degree": "INTERMEDIATE EDUCATION",
+        "Institution": "iClass CDR junior college",
+        "Years": null
+      },
+      {
+        "Degree": "SECONDARY EDUCATION",
+        "Institution": "Pragathi Central School",
+        "Years": null
+      }
+    ],
+    "Work Experience": [
+      {
+        "Title": "FULL STACK INTERN",
+        "Company": "DevElet",
+        "Years": "September 2024 - October2024",
+        "Responsibilities": []
+      },
+      {
+        "Title": "FRONT END INTERN",
+        "Company": "DevElet",
+        "Years": "August 2024 - September 2024",
+        "Responsibilities": [
+          "Developed Weather Forecast Application",
+          "Engineered Netflix Clone Platform",
+          "Created Personal Portfolio Website",
+          "Built A Task Manager Application"
+        ]
+      }
+    ],
+    "Skills": {
+      "Technical Skills": [
+        "Python",
+        "Java",
+        "Cybersecurity Fundamentals",
+        "HTML/CSS",
+        "Generative AI",
+        "SQL/Database Management",
+        "Machine Learning Algorithms"
+      ],
+      "Soft Skills": []
+    },
+    "Certifications": [
+      "Skilligence Ethical Hacking at IIT-Hyderabad",
+      "What is Generative AI- Linkedln Learning",
+      "CCNA: Introduction to Networks",
+      "Ethical Hacking -Internshala trainings",
+      "Web Development- Internshala trainings",
+      "Cambridge English Empower Level C1 Course",
+      "Wadhwani - JobReady Employability Skills"
+    ],
+    "Projects": [
+      {
+        "Name": "ILLEGAL FISHING DETECTION USING MACHINE LEARNING",
+        "Description": "Uses machine learning to identify and prevent illegal fishing activities in real-time."
+      },
+      {
+        "Name": "AUTOMATED VITAL SIGN MONITORING PLATFORM",
+        "Description": "Tracks and monitors vital signs in real-time, providing automated health insights."
+      }
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 85,
+      "reasoning": "Strong foundation in HTML/CSS, experience building web applications (Netflix clone, portfolio website, task manager), and relevant certifications in web development. The candidate has practical experience through internships.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript (implied)",
+        "Web Development",
+        "Front-end Development"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "REST APIs"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 13,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant technical skills like HTML/CSS and some experience with web development projects. The internships, while short, provide some practical experience. The B.Tech degree is relevant, and the certifications show initiative. Potential is good, especially with further development of skills and experience."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Experience in front-end development through internships, specifically developing web applications. Familiarity with HTML/CSS is a strong asset. The candidate needs to demonstrate more advanced skills.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript (implied)",
+        "Front-end Development",
+        "UI/UX Principles"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "State Management (Redux, Context API)",
+        "Testing Frameworks (Jest, Mocha)"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 12,
+          "overallPotential": 16
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in front-end development with relevant internship experience and projects. Skills in HTML/CSS are promising. B.Tech degree is relevant, but the lack of specific front-end focused education impacts the score. Potential is good given the projects and internships, but needs further development."
+      }
+    },
+    {
+      "jobTitle": "Full Stack Developer (Entry-Level)",
+      "matchScore": 70,
+      "reasoning": "The candidate has some full-stack experience as an intern. They possess knowledge of both front-end (HTML/CSS) and back-end (Python, Java, SQL) technologies. However, the experience is limited.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript (implied)",
+        "Python or Java",
+        "SQL/Database Management",
+        "REST APIs"
+      ],
+      "missingSkills": [
+        "Node.js",
+        "Backend Frameworks (e.g., Express, Django, Spring)",
+        "Deployment (e.g., Docker, AWS)",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 72,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 15,
+          "overallPotential": 17
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant technical skills like Python, Java, HTML/CSS, and SQL. The internship experience, particularly the projects involving web development and application creation, is relevant. The B.Tech degree aligns well with the role. The candidate shows potential through project work and certifications, indicating a willingness to learn and apply new technologies. Further development in specific full-stack frameworks and technologies would be beneficial."
+      }
+    },
+    {
+      "jobTitle": "Data Analyst",
+      "matchScore": 65,
+      "reasoning": "Possesses skills in Python, SQL/Database Management, and Machine Learning Algorithms. The 'Illegal Fishing Detection' project demonstrates practical application of these skills. However, the resume lacks specific data analysis experience.",
+      "requiredSkills": [
+        "Python",
+        "SQL/Database Management",
+        "Data Analysis",
+        "Data Visualization"
+      ],
+      "missingSkills": [
+        "Data Visualization Tools (Tableau, Power BI)",
+        "Statistical Analysis",
+        "Data Cleaning",
+        "Data Wrangling"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of relevant technical skills like Python, SQL, and Machine Learning. The projects listed showcase practical application of these skills. However, the work experience is limited to internships, and the educational background, while a B.Tech, lacks specific focus on data analysis. The candidate shows potential for growth with further development and experience in data-specific roles."
+      }
+    },
+    {
+      "jobTitle": "Cybersecurity Analyst (Junior)",
+      "matchScore": 60,
+      "reasoning": "The candidate has certifications and skills related to Cybersecurity Fundamentals and Ethical Hacking. However, the work experience doesn't directly align with cybersecurity roles. The 'Ethical Hacking' certification and Skilligence Ethical Hacking at IIT-Hyderabad are relevant.",
+      "requiredSkills": [
+        "Cybersecurity Fundamentals",
+        "Ethical Hacking",
+        "Network Security"
+      ],
+      "missingSkills": [
+        "Security Information and Event Management (SIEM)",
+        "Intrusion Detection/Prevention Systems (IDS/IPS)",
+        "Vulnerability Assessment",
+        "Penetration Testing"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 18,
+          "experienceRelevance": 10,
+          "educationAlignment": 12,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of cybersecurity fundamentals and relevant technical skills like Python and SQL. The Ethical Hacking certification and projects related to data analysis and automation are positive indicators. However, the work experience is limited to short internships primarily focused on front-end development, lacking direct cybersecurity experience. The B.Tech degree provides a suitable educational base, but further cybersecurity-specific training or certifications would strengthen the profile. Overall, the candidate shows potential but requires more focused experience and training in cybersecurity to be a strong fit for a Junior Cybersecurity Analyst role."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T08-22-38-579Z"
+}

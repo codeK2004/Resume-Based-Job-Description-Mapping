@@ -1,0 +1,170 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Frontend Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has experience as a Frontend Intern, developing web applications using HTML/CSS. This role aligns well with their practical experience and provides an opportunity to further develop their frontend skills. The 'Netflix Clone Platform' and 'Personal Portfolio Website' projects demonstrate relevant experience.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of frontend technologies (HTML/CSS) and has some relevant internship experience. However, the skills section includes a wide range of topics, suggesting a lack of deep expertise in frontend development specifically. The education is relevant, but the lack of a graduation year makes it difficult to assess the candidate's experience level. Overall potential is moderate, requiring further assessment of practical skills and problem-solving abilities in a frontend context."
+      }
+    },
+    {
+      "jobTitle": "Frontend Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given the candidate's internship experience, another internship would be a good fit. This allows them to gain more experience and build a stronger portfolio. The projects listed in the resume are relevant to this role.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Basic understanding of a Frontend Framework (React, Angular, or Vue)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant frontend skills like HTML/CSS. Experience includes relevant projects such as a Netflix clone and portfolio website, indicating practical application of skills. Education aligns with the role, though the year of graduation is missing. Overall potential is promising, given the internship experience and project portfolio, but further assessment of coding proficiency is recommended."
+      }
+    },
+    {
+      "jobTitle": "Junior Full Stack Developer (Python)",
+      "matchScore": 65,
+      "reasoning": "The candidate has expressed interest in Full Stack development and possesses Python skills. This role would allow them to leverage their Python knowledge while expanding their backend skills. The 'Task Manager Application' project suggests some full-stack experience.",
+      "requiredSkills": [
+        "Python",
+        "HTML/CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "Backend Frameworks (e.g., Django, Flask)",
+        "RESTful API Design",
+        "JavaScript",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of relevant skills like Python and HTML/CSS. The internship experience, while brief, provides some exposure to full-stack development. The B.Tech degree is relevant, but the lack of specific details (e.g., major, GPA) limits the score. Overall potential is moderate, requiring further assessment of problem-solving abilities and coding proficiency."
+      }
+    },
+    {
+      "jobTitle": "Web Developer Intern",
+      "matchScore": 80,
+      "reasoning": "This role is a good fit given the candidate's internship experience and the skills they possess. It allows them to further develop their web development skills and gain more practical experience.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git)",
+        "Basic understanding of backend technologies"
+      ],
+      "thresholdScore": {
+        "overallScore": 78,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 23,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant web development skills (HTML/CSS, Python, Java). Experience as a Front End and Full Stack Intern is valuable. Education in B.Tech is aligned. Potential is high given the projects and stated interest in web development."
+      }
+    },
+    {
+      "jobTitle": "Data Analyst (Entry-Level)",
+      "matchScore": 60,
+      "reasoning": "The candidate possesses skills in SQL/Database Management, Machine Learning Algorithms, and Python, which are relevant to data analysis. While their experience is primarily in web development, these skills could be transferable. This role would require further development of data analysis-specific skills.",
+      "requiredSkills": [
+        "Python",
+        "SQL/Database Management",
+        "Machine Learning Algorithms",
+        "English"
+      ],
+      "missingSkills": [
+        "Data Visualization (e.g., Tableau, Power BI)",
+        "Statistical Analysis",
+        "Data Cleaning and Preprocessing",
+        "Experience with large datasets"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of relevant skills like Python, SQL, and HTML/CSS. Experience as a Front End and Full Stack intern is relevant, though brief. A B.Tech degree aligns with the educational requirements. Overall potential is moderate, requiring further development in data analysis-specific tools and techniques."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T11-03-01-777Z"
+}

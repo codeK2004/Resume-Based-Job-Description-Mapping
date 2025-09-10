@@ -1,0 +1,172 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": null
+      },
+      {
+        "degree": "INTERMEDIATE EDUCATION",
+        "institution": "iClass CDR junior college",
+        "year": null
+      },
+      {
+        "degree": "SECONDARY EDUCATION",
+        "institution": "Pragathi Central School",
+        "year": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": null
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "text": "INTERNSHIP\nDevElet\nFRONT END INTERN\nDeveloped Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application\nCERTIFICATES\nSkilligence Ethical Hacking at IIT-Hyderabad \nWhat is Generative AI- Linkedln Learning\nCCNA: Introduction to Networks\nEthical Hacking -Internshala trainings \nWeb Development- Internshala trainings \nCambridge English Empower Level C1 Course\nWadhwani - JobReady Employability Skills\nPROJECTS\nUses machine learning to identify and prevent illegal\nfishing activities in real-time.\nAUTOMATED VITAL SIGN MONITORING PLATFORM\nTracks and monitors vital signs in real-time, providing\nautomated health insights.\nILLEGAL FISHING DETECTION USING MACHINE LEARNING\nAugust 2024 - September 2024 \nSeptember 2024 - October2024 \nDevElet\nFULL STACK INTERN\nAspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity. \nSUMMARYCONTACT\n7330992922\nHyderabad, India\nkasyap180305@gmail.com\nlinkedin.com/in/kasyap-\nbhaskararaju-narasimha-883a75302\nhttps://github.com/Kasyap18\niClass CDR junior college\nINTERMEDIATE EDUCATION\nPercentage: 86.5%\nPragathi Central School\nSECONDARY EDUCATION\nPercentage: 79%\nSKILLS\nPROFESSIONAL\nPython \nJava\nCybersecurity Fundamentals \nHTML/CSS \nGenerative AI \nSQL/Database Management \nMachine Learning Algorithms \nS O F T W A R E   D E V E L O P E R\nEDUCATION\nCGPA: 9.22\nMalla Reddy College of\nEngineering and Technology\nB.TECH\nLANGUAGES KNOWN\nEnglish\nHindi\nTelugu\nBHASKARARAJU NARASIMHA KASYAP\nACHIEVEMENTS\nCoordinator - Google Solution Challenge Bootcamp, Hyderabad\nAttended Skilligence Ethical Hacking at IIT-Hyderabad \nParticipated in Global AI Hyderabad at Microsoft\nOverall Student Coordinator - MRCET Espirito TechFest [2024]\nCo-leading - Designing Team at MRCET Espirito TechFest [2025]"
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Full Stack Developer",
+      "matchScore": 85,
+      "reasoning": "The candidate has experience as a Full Stack Intern and possesses skills in Python, Java, HTML/CSS, and SQL. They also have experience building web applications and working with databases.",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "HTML/CSS",
+        "SQL",
+        "Web Development"
+      ],
+      "missingSkills": [],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 20,
+          "educationAlignment": 14,
+          "overallPotential": 12
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant skills like Python, Java, HTML/CSS, and SQL. Internship experience at DevElet as both a Front End and Full Stack Intern is a plus, although the duration is short. The B.Tech degree aligns well with the role, and participation in events like the Google Solution Challenge and Global AI Hyderabad indicates a proactive approach to learning. However, the limited duration of internships and the lack of specific project details within the descriptions impact the overall score. There is potential for growth given the candidate's interest in web development, AI, and Cybersecurity."
+      }
+    },
+    {
+      "jobTitle": "Front End Developer",
+      "matchScore": 80,
+      "reasoning": "The candidate has experience as a Front End Intern and possesses skills in HTML/CSS. They have experience building web applications and creating user interfaces.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript",
+        "Web Development"
+      ],
+      "missingSkills": [
+        "JavaScript"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 20,
+          "educationAlignment": 14,
+          "overallPotential": 12
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant front-end skills like HTML/CSS and has some project experience. The internship experience, while brief, showcases practical application of these skills. The B.Tech degree is relevant, but the lack of specific front-end focused education impacts the score. The candidate's involvement in extracurricular activities and other technical areas suggests a strong potential for growth and learning, but requires further development in core front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Data Scientist",
+      "matchScore": 75,
+      "reasoning": "The candidate has skills in Python, Machine Learning Algorithms, and SQL. They have experience with projects involving machine learning.",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "missingSkills": [
+        "Statistics",
+        "Data Visualization"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of relevant skills like Python, SQL, and Machine Learning. Experience is limited to internships, but the projects listed show initiative. Education is a B.Tech, which aligns with the role, but further specialization might be beneficial. Overall potential is moderate, requiring further development and experience to fully meet the demands of a Data Scientist role."
+      }
+    },
+    {
+      "jobTitle": "Cybersecurity Analyst (Entry-Level)",
+      "matchScore": 70,
+      "reasoning": "The candidate has skills in Cybersecurity Fundamentals and has attended Ethical Hacking training. They also have some experience with networking concepts.",
+      "requiredSkills": [
+        "Cybersecurity Fundamentals",
+        "Networking",
+        "Security Tools"
+      ],
+      "missingSkills": [
+        "Penetration Testing",
+        "Incident Response"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 15,
+          "overallPotential": 13
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of cybersecurity fundamentals and relevant technical skills such as Python and SQL. The Ethical Hacking certifications and participation in AI events are positive indicators. However, the internship experience is primarily focused on web development, with limited direct cybersecurity experience. The B.Tech degree is relevant, but further cybersecurity-specific education or certifications would strengthen the profile. Overall, the candidate shows potential but requires further development in core cybersecurity areas."
+      }
+    },
+    {
+      "jobTitle": "AI Engineer (Entry-Level)",
+      "matchScore": 65,
+      "reasoning": "The candidate has skills in Generative AI and Machine Learning Algorithms. They have participated in AI-related events.",
+      "requiredSkills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Python"
+      ],
+      "missingSkills": [
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 20
+        },
+        "detailedAnalysis": "The candidate possesses a strong foundation in relevant skills such as Python, Machine Learning Algorithms, and Generative AI. Their projects, particularly the 'Illegal Fishing Detection' and 'Automated Vital Sign Monitoring Platform,' demonstrate practical application of these skills. The internships at DevElet provide some relevant experience, although the duration is relatively short. The B.Tech degree aligns well with the role, and participation in events like the Google Solution Challenge and Global AI Hyderabad indicates a strong interest and potential for growth in the field. While the experience is limited, the candidate's skills and project work suggest a good aptitude for an entry-level AI Engineer position."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T08-33-00-789Z"
+}

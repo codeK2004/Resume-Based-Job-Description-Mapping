@@ -1,0 +1,175 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has internship experience in front-end development, specifically mentioning the development of a Weather Forecast Application and a Netflix Clone. They also possess relevant skills like HTML and CSS. The 'Junior' title reflects their limited professional experience post-graduation.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 18,
+          "experienceRelevance": 20,
+          "educationAlignment": 10,
+          "overallPotential": 7
+        },
+        "detailedAnalysis": "The candidate demonstrates basic front-end skills (HTML, CSS) and some relevant internship experience. However, the skills section lacks depth in core front-end technologies (e.g., JavaScript frameworks like React, Angular, or Vue). The education is relevant but lacks specific details. Overall potential is moderate, contingent on rapid skill development in key front-end areas."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 70,
+      "reasoning": "Given the full-stack internship experience and the creation of a personal portfolio website and task manager application, a Junior Web Developer role is a good fit. This role encompasses both front-end and back-end responsibilities, aligning with their internship projects. The candidate has some exposure to full-stack concepts.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (Node.js, Python/Django, Ruby on Rails)",
+        "Version Control (Git)",
+        "RESTful APIs",
+        "Deployment",
+        "Testing"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of front-end technologies (HTML, CSS) and some backend concepts through their internships. The projects mentioned are relevant, but the short duration of the internships and the limited skill set listed suggest a need for further development. The B.Tech degree is relevant, but the lack of a specified graduation year makes it difficult to assess the candidate's current level. Overall potential is moderate, contingent on continued learning and practical application of skills."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "This is a strong match given the candidate's previous front-end internship experience. They have demonstrable skills in HTML and CSS, which are fundamental for this role. This allows them to build on their existing experience and further develop their skills.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses some relevant skills (HTML, CSS) but lacks mention of JavaScript or modern front-end frameworks. Internship experience is relevant, but short. Education is aligned, but details are missing. Overall potential is moderate, requiring significant mentorship."
+      }
+    },
+    {
+      "jobTitle": "Full Stack Developer Intern",
+      "matchScore": 80,
+      "reasoning": "The candidate has prior experience as a Full Stack Intern. While their skills list is limited, the experience suggests they have some familiarity with both front-end and back-end technologies. This role allows them to expand their knowledge and gain practical experience.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (Node.js, Python/Django, Ruby on Rails)",
+        "Version Control (Git)",
+        "RESTful APIs"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 25,
+          "educationAlignment": 18,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, aligning well with the educational requirements. Their internship experience as a Front End and Full Stack Intern is relevant, showcasing practical application of skills. The listed skills include HTML, CSS, and Java, which are beneficial for a Full Stack Developer Intern. However, the skills section could be more comprehensive, lacking specific frameworks or libraries commonly used in full-stack development. Overall, the candidate demonstrates good potential but could benefit from further development in specific full-stack technologies."
+      }
+    },
+    {
+      "jobTitle": "Data Analyst",
+      "matchScore": 60,
+      "reasoning": "The candidate lists 'SQL/Database Management' and 'Machine Learning Algorithms' as skills. While their experience doesn't directly relate to data analysis, these skills are relevant. A Data Analyst role could be a potential career path if they develop their analytical and data visualization skills.",
+      "requiredSkills": [
+        "SQL/Database Management",
+        "Machine Learning Algorithms"
+      ],
+      "missingSkills": [
+        "Data Visualization (Tableau, Power BI)",
+        "Statistical Analysis",
+        "Data Cleaning",
+        "Data Wrangling",
+        "Python (Pandas, NumPy)",
+        "Communication Skills"
+      ],
+      "thresholdScore": {
+        "overallScore": 45,
+        "breakdown": {
+          "skillsMatch": 15,
+          "experienceRelevance": 10,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which provides a foundational understanding for data analysis. However, the listed skills and experience, while relevant to software development, lack specific focus on core data analysis tools and techniques (e.g., statistical analysis, data visualization, specific data analysis libraries in Python or R). The internships are short-term and primarily focused on front-end and full-stack development, not data analysis. Overall potential is moderate, contingent on further development of data analysis-specific skills."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T11-58-45-438Z"
+}

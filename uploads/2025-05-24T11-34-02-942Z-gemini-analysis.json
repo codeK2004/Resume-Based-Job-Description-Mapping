@@ -1,0 +1,171 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Frontend Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has internship experience as a Frontend Developer and has built several frontend projects like a weather forecast application, Netflix clone, and personal portfolio website. They possess the core skills required for a junior frontend role, such as HTML/CSS. The match score is high due to the direct relevance of their experience and skills.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java"
+      ],
+      "missingSkills": [
+        "JavaScript (React, Angular, or Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks (Jest, Mocha)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "Candidate demonstrates basic frontend skills (HTML/CSS) and some relevant project experience. Education is aligned, but lacks specific details. Potential is present but needs further development in core frontend technologies."
+      }
+    },
+    {
+      "jobTitle": "Frontend Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given the candidate's internship experience, another internship is a realistic and suitable option. They already have experience in this role and possess the basic skills. This allows them to further develop their skills and gain more practical experience.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "Candidate demonstrates relevant frontend skills (HTML/CSS) and some related experience through internship projects. Education is aligned, but details are lacking. Potential is good, but needs further assessment of practical skills and understanding of frontend frameworks."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "The candidate has some full-stack experience and possesses skills in both frontend (HTML/CSS) and backend (Python, Java, SQL). This makes them a potential fit for a junior web developer role. However, the match score is lower because their experience is primarily internship-based and they lack specific experience with common web development frameworks.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript (Node.js, Express.js)",
+        "Frontend Frameworks (React, Angular, Vue)",
+        "RESTful APIs",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 20
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant skills like HTML/CSS and some experience through internships. The B.Tech degree is relevant, and the candidate expresses a desire for growth. However, the experience is limited in duration and detail, and the skills list includes broader topics like AI and Cybersecurity which are not core to a Junior Web Developer role. The overall potential is high due to the candidate's stated interest and foundational skills."
+      }
+    },
+    {
+      "jobTitle": "Data Analyst Intern",
+      "matchScore": 60,
+      "reasoning": "The candidate possesses skills in Python, SQL/Database Management, and Machine Learning Algorithms, which are relevant to data analysis. While their experience is primarily in web development, these skills could be transferable to a data analysis internship. The match score reflects the need for further development in data-specific tools and techniques.",
+      "requiredSkills": [
+        "Python",
+        "SQL/Database Management",
+        "Machine Learning Algorithms"
+      ],
+      "missingSkills": [
+        "Data Visualization (Tableau, Power BI)",
+        "Statistical Analysis",
+        "Data Cleaning and Preprocessing"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, aligning with the educational requirements. Skills like Python, SQL, and Machine Learning Algorithms are relevant, but the experience is more focused on web development. The candidate's potential is moderate, given the transferable skills and interest in AI."
+      }
+    },
+    {
+      "jobTitle": "Cybersecurity Analyst (Entry-Level)",
+      "matchScore": 50,
+      "reasoning": "The candidate lists 'Cybersecurity Fundamentals' as a skill and expresses interest in Cybersecurity. While this is a good starting point, an entry-level analyst role requires more specific knowledge and experience. The match score is lower due to the lack of demonstrable experience in cybersecurity.",
+      "requiredSkills": [
+        "Cybersecurity Fundamentals"
+      ],
+      "missingSkills": [
+        "Network Security",
+        "Security Auditing",
+        "Intrusion Detection/Prevention Systems",
+        "Penetration Testing",
+        "Security Information and Event Management (SIEM)"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 10,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of cybersecurity fundamentals and some relevant technical skills like Python and SQL. However, the experience is primarily focused on web development, with limited direct cybersecurity experience. The B.Tech degree provides a foundation, but further cybersecurity-specific training or certifications would significantly improve their fit. Overall potential is moderate, contingent on their willingness to learn and specialize in cybersecurity."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T11-34-02-942Z"
+}

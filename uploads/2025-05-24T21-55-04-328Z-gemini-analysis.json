@@ -1,0 +1,171 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front End Intern, coupled with her skills in HTML and CSS, makes her a suitable candidate for a Junior Front-End Developer role. The projects mentioned (Weather Forecast Application, Netflix Clone) demonstrate practical application of front-end technologies. Her Full Stack internship experience also provides a broader understanding of web development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which aligns reasonably well with the educational requirements for a Junior Front-End Developer. The candidate has some relevant internship experience, including developing a Netflix clone and a personal portfolio website, indicating some practical front-end skills. The skills listed include HTML and CSS, which are essential for the role, but lack mention of JavaScript or modern front-end frameworks. The overall potential is moderate, as the candidate has some experience but needs further development in core front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given her prior internship experience and foundational skills, another Front-End Developer Internship would be a good fit. This allows her to further hone her skills and gain more practical experience before moving into a full-time role. The projects she's worked on already demonstrate a basic understanding of front-end development principles.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "UI/UX Principles",
+        "Front-End Frameworks (e.g., React, Angular, Vue.js)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses some relevant skills (HTML, CSS) but lacks mention of JavaScript and modern front-end frameworks. Internship experience is relevant, but the duration is short. Education is a general B.Tech, not specifically focused on front-end development. Overall potential is moderate, contingent on rapid learning and skill development in key front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "With experience as a Full Stack Intern, Alamanda has some exposure to both front-end and back-end technologies. This makes her a potential candidate for a Junior Web Developer role, where she can contribute to both aspects of web development. However, her skills in back-end technologies need further development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Back-End Frameworks (e.g., Node.js, Python/Django)",
+        "API Development",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which aligns moderately with the educational requirements for a Junior Web Developer. The candidate's skills include HTML and CSS, which are essential for the role, but lack Javascript. The candidate has relevant internship experience, including developing web applications and a portfolio website. Overall, the candidate shows potential but requires further development in core web development skills."
+      }
+    },
+    {
+      "jobTitle": "Web Development Intern",
+      "matchScore": 80,
+      "reasoning": "Considering her previous internships, another internship focusing on general web development would be a good way to gain more experience and solidify her skills. This would allow her to explore different aspects of web development and determine her preferred area of specialization.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Back-End Fundamentals",
+        "Version Control (Git)",
+        "Problem-Solving"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 25,
+          "educationAlignment": 18,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant web development skills (HTML, CSS). Experience as a Front End and Full Stack intern is highly relevant. B.Tech degree aligns well with the internship. Potential is good, but further assessment is needed to gauge problem-solving and learning agility."
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer",
+      "matchScore": 55,
+      "reasoning": "While not directly related to her development experience, Alamanda's strong communication skills (English, Hindi, Telugu) and technical background (B.Tech) could make her suitable for a Technical Support Engineer role. This role would leverage her problem-solving abilities and technical knowledge to assist customers with technical issues.",
+      "requiredSkills": [
+        "English",
+        "Technical Aptitude",
+        "Problem-Solving"
+      ],
+      "missingSkills": [
+        "Specific product knowledge",
+        "Customer service experience",
+        "Troubleshooting methodologies"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 15,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate's skills include Java, SQL, HTML, and CSS, which are somewhat relevant to a Technical Support Engineer role. The internship experience, while focused on development, demonstrates problem-solving and application development abilities. The B.Tech degree is relevant, but the lack of specific technical support experience or certifications lowers the score. Overall potential is moderate, requiring further assessment of troubleshooting and communication skills."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T21-55-04-328Z"
+}

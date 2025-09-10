@@ -1,0 +1,165 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has internship experience as a Front-End Intern, developing applications using HTML and CSS. This aligns well with the requirements of a Junior Front-End Developer role. The experience with developing a Netflix clone and a weather forecast application demonstrates practical skills. The listed skills of HTML and CSS are core requirements. While the candidate has some full-stack experience, the stronger alignment is with front-end development based on the description.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue.js",
+        "Responsive Design",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 18,
+          "experienceRelevance": 20,
+          "educationAlignment": 10,
+          "overallPotential": 7
+        },
+        "detailedAnalysis": "The candidate possesses some relevant skills (HTML, CSS) but lacks depth in front-end specific frameworks and libraries. Internship experience is relevant, but short. Education is aligned, but lacks specific details. Overall potential is moderate, requiring significant upskilling in front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given the candidate's internship experience, another internship focused solely on front-end development would be a strong fit. This allows them to further hone their skills and gain more experience before moving into a full-time junior role. The projects mentioned (Netflix clone, weather app) are relevant and demonstrate practical application of HTML and CSS.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript (basic)",
+        "Version Control (Git basics)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses some relevant skills (HTML, CSS) and internship experience, but lacks depth in core front-end frameworks (React, Angular, Vue). The projects mentioned are relevant, but the short duration of each internship raises concerns about the depth of involvement. Education is aligned, but not exceptionally strong. Overall potential is moderate, requiring significant mentorship and training."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "The candidate's full-stack internship experience and the development of a personal portfolio website and task manager application make them suitable for a Junior Web Developer role. This role typically involves both front-end and back-end tasks, and the candidate has some exposure to both. However, the listed skills are somewhat limited, and further development in back-end technologies is needed.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Back-end Frameworks (e.g., Node.js, Python/Django, Ruby on Rails)",
+        "REST APIs",
+        "Version Control (Git)",
+        "UI/UX Design Principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which aligns moderately well with the requirements of a Junior Web Developer role. The listed skills include HTML and CSS, which are essential, but lack JavaScript and other front-end frameworks. The internship experience is relevant, particularly the front-end internship, but the short duration of each internship limits the depth of experience. The overall potential is moderate, dependent on the candidate's willingness and ability to learn quickly."
+      }
+    },
+    {
+      "jobTitle": "Web Development Intern",
+      "matchScore": 70,
+      "reasoning": "The candidate's full-stack internship experience makes them suitable for a Web Development Internship. This role typically involves both front-end and back-end tasks, and the candidate has some exposure to both. This allows them to further explore both front-end and back-end technologies.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git basics)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 25,
+          "educationAlignment": 18,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in web development skills (HTML, CSS) and has relevant internship experience. The B.Tech degree aligns well with the role. However, the listed skills are somewhat broad, and the experience descriptions lack specific details about technologies used and project outcomes. Overall potential is moderate, requiring further assessment of problem-solving abilities and learning agility."
+      }
+    },
+    {
+      "jobTitle": "Entry-Level Java Developer",
+      "matchScore": 55,
+      "reasoning": "While the candidate lists Java as a skill, the experience described doesn't explicitly showcase its use. Given the B.Tech degree, it's likely they have some foundational knowledge. An entry-level Java developer role could be a possibility if they can demonstrate their Java skills through projects or further learning. However, the match score is lower due to the lack of practical Java experience in the described internships.",
+      "requiredSkills": [
+        "Java"
+      ],
+      "missingSkills": [
+        "Java Frameworks (e.g., Spring, Hibernate)",
+        "REST APIs",
+        "Database Technologies (e.g., MySQL, PostgreSQL)",
+        "Version Control (Git)",
+        "Software Development Lifecycle"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate possesses Java skills, which is a core requirement. However, the experience is primarily focused on front-end and full-stack development, with limited direct Java experience. The B.Tech degree is relevant, but the lack of specific Java projects or internships impacts the experience relevance score. Overall potential is moderate, contingent on the candidate's willingness to learn and adapt to a Java-focused role."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T12-11-53-314Z"
+}

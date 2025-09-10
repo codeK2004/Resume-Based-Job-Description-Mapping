@@ -1,0 +1,174 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has internship experience as a Front-End Intern, developing applications and websites using HTML/CSS. This role aligns well with their practical experience and foundational skills. The match score is high due to the direct relevance of their internship projects to the responsibilities of a junior front-end developer.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of front-end technologies (HTML/CSS) and has some relevant internship experience. However, the skills list is broad and lacks depth in specific front-end frameworks (e.g., React, Angular, Vue.js). The education is relevant, but the lack of specific front-end projects or contributions limits the score. Overall potential is moderate, contingent on further skill development in front-end specific areas."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 90,
+      "reasoning": "Given the candidate's previous internship experience, another internship would be a great way to build on their skills. This role directly aligns with their previous experience and allows them to further develop their front-end skills.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in front-end skills (HTML/CSS) and relevant project experience. The B.Tech degree provides a solid educational base. While the resume mentions full-stack aspirations and other technologies, the focus on front-end projects suggests potential for growth in the specific role. The internship experience, though brief, is directly relevant."
+      }
+    },
+    {
+      "jobTitle": "Junior Full-Stack Developer",
+      "matchScore": 65,
+      "reasoning": "The candidate has expressed interest in Full Stack development and has internship experience. While their resume doesn't detail specific backend skills, their knowledge of Python, Java, and SQL suggests a foundation that can be built upon. The match score is moderate as it requires further development of backend skills.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "Backend Frameworks (Node.js, Django, Spring)",
+        "API Development",
+        "Server Management",
+        "Cloud Technologies (AWS, Azure, GCP)"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 15,
+          "overallPotential": 13
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of relevant technologies (HTML/CSS, Python, Java) and some experience through internships. The projects listed showcase initiative, but the descriptions lack detail regarding specific contributions and technologies used. The education is relevant, but the lack of graduation year makes it difficult to assess experience level. Overall potential is good, given the candidate's stated interest in web development, AI, and Cybersecurity, but further development and practical experience are needed."
+      }
+    },
+    {
+      "jobTitle": "Web Developer Intern",
+      "matchScore": 80,
+      "reasoning": "The candidate has experience in web development through their internships. A web developer intern role would allow them to further hone their skills and gain more experience in the field. This role aligns well with their current skill set and experience level.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks",
+        "Backend Frameworks (Node.js, Django, Spring)",
+        "API Development"
+      ],
+      "thresholdScore": {
+        "overallScore": 78,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 23,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in web development skills (HTML/CSS, Python, Java). Internship experience at DevElet as both a Front End and Full Stack Intern is relevant. The B.Tech degree aligns well with the role. The candidate's interest in AI and Cybersecurity suggests a strong potential for growth and adaptability."
+      }
+    },
+    {
+      "jobTitle": "Data Analyst Intern",
+      "matchScore": 60,
+      "reasoning": "With skills in Python, SQL, and Machine Learning Algorithms, the candidate possesses a foundation for data analysis. An internship in this field would allow them to apply these skills in a practical setting. The match score is moderate as it requires further development of data analysis-specific tools and techniques.",
+      "requiredSkills": [
+        "Python",
+        "SQL/Database Management",
+        "Machine Learning Algorithms"
+      ],
+      "missingSkills": [
+        "Data Visualization (Tableau, Power BI)",
+        "Statistical Analysis",
+        "Data Cleaning and Preprocessing",
+        "Big Data Technologies (Hadoop, Spark)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "Candidate demonstrates a good foundation in relevant skills like Python, SQL, and potentially Machine Learning. Experience as a Full Stack Intern and Front End Intern, while not directly Data Analysis, shows initiative and development experience. B.Tech degree is relevant. Potential is good given the skills and experience, but needs further development in data-specific areas."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T11-33-25-056Z"
+}

@@ -1,0 +1,185 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has experience as a Front-End Intern and possesses HTML/CSS skills, which are fundamental for this role. They also have experience building web applications, as demonstrated by their projects. The 'Junior' title reflects their limited professional experience.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "English",
+        "Problem-solving"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in front-end skills (HTML/CSS) and has relevant project experience. The B.Tech degree is a positive, but the lack of specific front-end frameworks (React, Angular, Vue) and deeper JavaScript knowledge impacts the skills match score. The internship experience, while relevant, is short. Overall potential is good, given the candidate's interest in web development and AI."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "This role directly aligns with the candidate's previous internship experience. The candidate has experience as a Front-End Intern and possesses HTML/CSS skills, which are fundamental for this role. They also have experience building web applications, as demonstrated by their projects.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "English",
+        "Problem-solving"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in front-end development skills (HTML/CSS) and relevant project experience. The projects listed (Weather Forecast Application, Netflix Clone, Personal Portfolio, Task Manager) suggest practical application of these skills. The education alignment is adequate, and the candidate's internship experience, though brief, is relevant. Overall potential is promising, given the candidate's interest in web development and related fields."
+      }
+    },
+    {
+      "jobTitle": "Full Stack Developer Intern",
+      "matchScore": 70,
+      "reasoning": "The candidate has experience as a Full Stack Intern. They possess HTML/CSS skills, which are fundamental for this role. They also have experience building web applications, as demonstrated by their projects. The 'Intern' title reflects their limited professional experience.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "SQL/Database Management",
+        "English",
+        "Problem-solving"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks",
+        "Backend Frameworks (Node.js, Django, Spring)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 25,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant skills like HTML/CSS, Python, and Java. Experience as a Front End and Full Stack intern is relevant, though the duration of the Full Stack internship is short. The B.Tech degree is aligned with the role. Overall potential is promising given the projects and stated interest in web development and AI."
+      }
+    },
+    {
+      "jobTitle": "Web Developer (Entry-Level)",
+      "matchScore": 65,
+      "reasoning": "The candidate has experience as a Front-End Intern and possesses HTML/CSS skills, which are fundamental for this role. They also have experience building web applications, as demonstrated by their projects. The 'Entry-Level' title reflects their limited professional experience.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "English",
+        "Problem-solving"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks",
+        "Backend Frameworks (Node.js, Django, Spring)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of web development technologies (HTML/CSS). The internship experience, while brief, suggests some practical application. The B.Tech degree provides a foundation, but the lack of specific web development coursework is a slight drawback. The candidate's interest in AI and Cybersecurity could be a valuable asset in the long term, but the current skill set is somewhat limited for an entry-level web developer role. Further training and project work would significantly improve their candidacy."
+      }
+    },
+    {
+      "jobTitle": "AI/ML Engineer (Entry-Level)",
+      "matchScore": 55,
+      "reasoning": "The candidate lists Generative AI and Machine Learning Algorithms as skills. While they may have some foundational knowledge, an entry-level role would require significant on-the-job learning and development. Their other skills (Python, Java) are helpful but not sufficient on their own.",
+      "requiredSkills": [
+        "Python",
+        "Generative AI",
+        "Machine Learning Algorithms",
+        "English"
+      ],
+      "missingSkills": [
+        "Deep Learning Frameworks (TensorFlow, PyTorch)",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Cloud Computing (AWS, Azure, GCP)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of relevant skills like Python, Machine Learning Algorithms, and Generative AI. However, the experience is primarily focused on web development, with limited direct AI/ML application. The B.Tech degree provides a suitable educational base, but further specialization in AI/ML would be beneficial. The candidate's potential is promising given their interest in AI and related fields, but requires further development and practical application in AI/ML projects."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T22-15-06-600Z"
+}

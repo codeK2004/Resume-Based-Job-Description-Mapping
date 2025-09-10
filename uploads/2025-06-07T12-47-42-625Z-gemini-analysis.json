@@ -1,0 +1,177 @@
+{
+  "resumeAnalysis": {
+    "name": "BHASKARARAJU NARASIMHA KASYAP",
+    "email": "kasyap180305@gmail.com",
+    "phone": "7330992922",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "",
+        "description": "Developed Weather Forecast Application\nEngineered Netflix Clone Platform\nCreated Personal Portfolio Website\nBuilt A Task Manager Application"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Aspiring Full Stack Web Developer driven by growth in\nweb development, AI, and Cybersecurity."
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Cybersecurity Fundamentals",
+      "HTML/CSS",
+      "Generative AI",
+      "SQL/Database Management",
+      "Machine Learning Algorithms"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has experience as a Front End Intern and has built several front-end projects, including a Netflix clone and a personal portfolio website, demonstrating proficiency in HTML/CSS. The internship experience and project portfolio align well with the requirements of a junior front-end developer role. The candidate also expresses interest in web development.",
+      "requiredSkills": [
+        "HTML/CSS"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "selectionPercentage": 55,
+        "rejectionPercentage": 45,
+        "barGraphMetrics": {
+          "skillMatch": 40,
+          "experienceMatch": 30,
+          "educationMatch": 80,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of web development, particularly in front-end technologies. The skill match is moderate (40%) due to the presence of HTML/CSS, but a lack of JavaScript and modern front-end frameworks like React or Angular. The experience relevance is limited (30%) due to the short internship duration and the focus on full-stack development, which only partially aligns with the Junior Front-End Developer role. The education alignment is strong (80%) given the B.Tech degree, although the specific field of study isn't specified. Overall potential is moderate (50%) as the candidate shows initiative with personal projects, but needs to develop more specialized front-end skills. For example, the portfolio website and Netflix clone demonstrate practical application of HTML/CSS, but the absence of JavaScript proficiency is a significant gap."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "The candidate has prior experience as a Front-End Intern. This role allows them to further develop their existing skills in HTML/CSS and gain practical experience in a professional setting. The projects listed in the resume demonstrate a foundational understanding of front-end development principles.",
+      "requiredSkills": [
+        "HTML/CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "UI/UX Design Principles",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "selectionPercentage": 55,
+        "rejectionPercentage": 45,
+        "barGraphMetrics": {
+          "skillMatch": 40,
+          "experienceMatch": 30,
+          "educationMatch": 80,
+          "overallMatch": 50
+        },
+        "detailedAnalysis": "The candidate demonstrates a moderate fit for the Front-End Developer Intern position. \n\nSkills Match: The resume lists HTML/CSS, which are core front-end skills. Other skills like Python, Java, SQL, Cybersecurity, Generative AI and Machine Learning Algorithms are supplementary but not core to the role, resulting in a 40% skill match. Example: HTML/CSS is a direct match.\n\nExperience Relevance: The candidate has experience as a Front End Intern and Full Stack Intern. The description mentions relevant projects like a Netflix Clone and Personal Portfolio Website. Given the limited duration specified (1 month of Full Stack experience), the experience relevance is estimated at 30%. Example: Netflix Clone project indicates front-end development experience.\n\nEducation Alignment: The candidate has a B.TECH degree, which aligns with the educational requirements. The field of study is assumed to be relevant (e.g., Computer Science or related field), resulting in an 80% education match. \n\nOverall Potential: The candidate's internship experience and project descriptions suggest a willingness to learn and adapt. The listed skills, while not all directly relevant, indicate a broad interest in technology, contributing to a 50% potential score."
+      }
+    },
+    {
+      "jobTitle": "Junior Full Stack Developer",
+      "matchScore": 65,
+      "reasoning": "The candidate has experience as a Full Stack Intern and lists Python, Java, and SQL/Database Management as skills, suggesting some familiarity with back-end technologies. While the experience is limited, the stated interest in web development and the combination of front-end and back-end skills make this a plausible entry-level option.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "Backend Frameworks (e.g., Django, Flask, Node.js)",
+        "API Development",
+        "Deployment Technologies",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 52,
+        "selectionPercentage": 52,
+        "rejectionPercentage": 48,
+        "barGraphMetrics": {
+          "skillMatch": 40,
+          "experienceMatch": 10,
+          "educationMatch": 80,
+          "overallMatch": 60
+        },
+        "detailedAnalysis": "The candidate's resume indicates a B.Tech degree, aligning well with the educational requirements for a Junior Full Stack Developer (Education Alignment: 16/20, 80%). The candidate lists HTML/CSS, Python, and SQL/Database Management, which are relevant skills. However, the resume lacks core front-end skills like JavaScript and React/Angular/Vue.js, and back-end skills like Node.js or similar frameworks, resulting in a moderate skills match (Skill Match: 12/30, 40%). The experience as a Full Stack Intern for one month is minimal, and the descriptions lack specific details about the technologies used and the complexity of the projects. The experience score is low (Experience Relevance: 3/30, 10%). The candidate expresses interest in web development, AI, and Cybersecurity, suggesting a willingness to learn and adapt, contributing to a moderate overall potential (Overall Potential: 12/20, 60%)."
+      }
+    },
+    {
+      "jobTitle": "Web Developer Intern",
+      "matchScore": 80,
+      "reasoning": "Given the candidate's internship experience and project portfolio, a Web Developer Intern position is a suitable match. This role allows them to apply their existing skills in HTML/CSS and potentially expand their knowledge of other web development technologies. The candidate's projects demonstrate a basic understanding of web development concepts.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "Python",
+        "Java"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Version Control (Git)",
+        "Backend Frameworks",
+        "API Development"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "selectionPercentage": 65,
+        "rejectionPercentage": 35,
+        "barGraphMetrics": {
+          "skillMatch": 60,
+          "experienceMatch": 50,
+          "educationMatch": 90,
+          "overallMatch": 65
+        },
+        "detailedAnalysis": "The candidate demonstrates a moderate fit for the Web Developer Intern position. The skills match is decent, with proficiency in HTML/CSS and some exposure to Python and Java, which are valuable for web development. However, the resume lacks specific details on the depth of knowledge in these areas. The experience as a Front End and Full Stack Intern is relevant, particularly the projects involving web application development (Weather Forecast Application, Netflix Clone Platform, Personal Portfolio Website, Task Manager Application). The duration of the Full Stack internship is short (1 month), limiting the depth of experience. The B.TECH degree aligns well with the educational requirements. The candidate's interest in AI and Cybersecurity, while not directly related, indicates a broader technical aptitude and potential for learning. For example, the candidate could leverage their Python skills to build web applications."
+      }
+    },
+    {
+      "jobTitle": "Data Science Intern",
+      "matchScore": 60,
+      "reasoning": "The candidate lists skills in Python, SQL/Database Management, Machine Learning Algorithms, and Generative AI. While the experience is primarily in web development, these skills could be relevant to a data science internship. This is a slightly less direct match but worth considering given the listed skills.",
+      "requiredSkills": [
+        "Python",
+        "SQL/Database Management",
+        "Machine Learning Algorithms",
+        "Generative AI"
+      ],
+      "missingSkills": [
+        "Statistical Analysis",
+        "Data Visualization",
+        "Specific Machine Learning Libraries (e.g., scikit-learn, TensorFlow, PyTorch)",
+        "Data Cleaning and Preprocessing"
+      ],
+      "thresholdScore": {
+        "overallScore": 62,
+        "selectionPercentage": 62,
+        "rejectionPercentage": 38,
+        "barGraphMetrics": {
+          "skillMatch": 50,
+          "experienceMatch": 16,
+          "educationMatch": 80,
+          "overallMatch": 60
+        },
+        "detailedAnalysis": "The candidate demonstrates a moderate fit for the Data Science Intern position. The skills match is 50% due to proficiency in Python, HTML/CSS, and SQL/Database Management, which are relevant, but lacks specific data science skills mentioned in typical intern requirements. The experience relevance is low (16%) because the internship experience is short (1 month) and not directly related to data science. The education alignment is strong (80%) as the candidate has a B.Tech degree, which is often a prerequisite. The overall potential is moderate (60%) due to the candidate's interest in AI and web development, suggesting adaptability and a willingness to learn, but requires further development in core data science areas. For example, the candidate mentions 'Machine Learning Algorithms' but lacks details on specific algorithms or projects."
+      }
+    }
+  ],
+  "timestamp": "2025-06-07T12-47-42-625Z"
+}

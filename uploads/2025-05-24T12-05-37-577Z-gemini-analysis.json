@@ -1,0 +1,177 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "The candidate has internship experience in front-end development, specifically mentioning the development of a Weather Forecast Application and a Netflix Clone. They also possess relevant skills like HTML and CSS. The 'Junior' title reflects their limited professional experience post-graduation.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 18,
+          "experienceRelevance": 20,
+          "educationAlignment": 10,
+          "overallPotential": 7
+        },
+        "detailedAnalysis": "The candidate possesses some relevant skills (HTML, CSS) but lacks depth in front-end specific frameworks and libraries. Internship experience is relevant, but short. Education is generally aligned, but lacks specific front-end focus. Overall potential is moderate, requiring significant upskilling in core front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Junior Full-Stack Developer",
+      "matchScore": 65,
+      "reasoning": "The candidate has a brief internship as a full-stack developer, creating a personal portfolio website and a task manager application. While the experience is limited, it demonstrates exposure to both front-end and back-end concepts. The 'Junior' title reflects their limited professional experience post-graduation.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "REST APIs",
+        "Version Control (Git)",
+        "Cloud Platforms (AWS, Azure, GCP)",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, aligning somewhat with the educational requirements. Their internship experience as a Front End and Full Stack Intern is relevant, showcasing practical application of skills. The listed skills include HTML, CSS, and Java, which are beneficial for a full-stack role, but lack mention of Javascript and other front-end frameworks. Overall potential is moderate, dependent on their ability to quickly learn and adapt to the specific technologies used by the company."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "This role directly aligns with the candidate's previous internship experience. The candidate has hands-on experience in front-end development and possesses the core skills required for an internship position. This is a good option to gain more experience.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses some relevant skills (HTML, CSS) and internship experience related to front-end development. However, the skills list is broad and lacks specific front-end frameworks (React, Angular, Vue). The experience, while relevant, is short-term. Education is a B.Tech, which is generally aligned, but the lack of a specific graduation year makes it difficult to assess. Overall potential is moderate, contingent on rapid learning and skill development in key front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Full-Stack Developer Intern",
+      "matchScore": 75,
+      "reasoning": "This role directly aligns with the candidate's previous internship experience. The candidate has hands-on experience in full-stack development and possesses the core skills required for an internship position. This is a good option to gain more experience.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "REST APIs",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 25,
+          "educationAlignment": 18,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a reasonable skill set with HTML, CSS, and Java, aligning with front-end and some back-end aspects of a Full-Stack Developer Intern role. Experience includes relevant internships focusing on front-end and full-stack development, showcasing practical application of skills. The B.Tech degree is relevant, contributing to a solid educational foundation. Overall potential is moderate, requiring further assessment of problem-solving abilities and adaptability."
+      }
+    },
+    {
+      "jobTitle": "Associate Software Engineer",
+      "matchScore": 55,
+      "reasoning": "Given the candidate's B.Tech degree and internship experience, an entry-level software engineer role is a possibility. However, the match score is lower due to the limited professional experience and the need for further skill development. The candidate's skills in Java and Machine Learning Algorithms are a plus, but more practical experience is needed.",
+      "requiredSkills": [
+        "Java",
+        "HTML",
+        "CSS",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "Data Structures and Algorithms",
+        "Software Design Principles",
+        "Version Control (Git)",
+        "Testing Methodologies",
+        "Specific Frameworks (e.g., Spring, Django, React)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, aligning with the educational requirements. The internship experience, while brief, demonstrates exposure to front-end and full-stack development, relevant to the Associate Software Engineer role. The skills listed, including Java, HTML, and CSS, are beneficial. However, the limited duration of the internships and the lack of specific project details impact the experience relevance score. The overall potential is moderate, contingent on further development and learning."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T12-05-37-577Z"
+}

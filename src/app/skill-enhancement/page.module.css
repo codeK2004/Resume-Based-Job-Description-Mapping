@@ -1,0 +1,144 @@
+.main {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f6f8fc 0%, #f0f4f8 100%);
+  padding: 6rem 2rem 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  padding: 3rem;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0;
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  color: #4b5563;
+  margin: 0.5rem 0 2rem;
+  text-align: center;
+}
+
+.tipsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.tipCard {
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 1px solid #e5e7eb;
+}
+
+.tipCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+.tipHeader {
+  margin-bottom: 1rem;
+}
+
+.category {
+  display: inline-block;
+  background: #dbeafe;
+  color: #1e40af;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.tipTitle {
+  font-size: 1.5rem;
+  color: #1a1a1a;
+  margin: 0;
+}
+
+.description {
+  color: #4b5563;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.resources {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+}
+
+.resources h3 {
+  color: #1a1a1a;
+  font-size: 1.1rem;
+  margin: 0 0 0.75rem;
+}
+
+.resources ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.resources li {
+  color: #4b5563;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.875rem;
+}
+
+.resources li:last-child {
+  border-bottom: none;
+}
+
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 5px solid #e5e7eb;
+  border-bottom-color: #3b82f6;
+  border-radius: 50%;
+  animation: rotation 1s linear infinite;
+  margin: 2rem auto;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 2rem;
+  }
+
+  .title {
+    font-size: 2.5rem;
+  }
+
+  .tipsGrid {
+    grid-template-columns: 1fr;
+  }
+} 

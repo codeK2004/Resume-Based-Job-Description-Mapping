@@ -1,0 +1,70 @@
+.navbar {
+  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+  padding: 1.25rem 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  padding: 0 1rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.navLink {
+  color: #475569;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+  font-size: 1.1rem;
+}
+
+.navLink:hover {
+  color: #4f46e5;
+  background-color: #eef2ff;
+  transform: translateY(-2px);
+}
+
+.navLink.active {
+  color: #4f46e5;
+  background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%);
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.1);
+}
+
+.logoutButton {
+  background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.75rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.3);
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.logoutButton:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #b91c1c 0%, #991b1b 100%);
+  box-shadow: 0 8px 24px rgba(220, 38, 38, 0.4);
+} 

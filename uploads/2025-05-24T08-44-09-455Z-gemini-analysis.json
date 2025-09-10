@@ -1,0 +1,172 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of\nEngineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front-End Intern, coupled with her skills in HTML and CSS, make her a suitable candidate for a Junior Front-End Developer role. The projects mentioned (Weather Forecast Application, Netflix Clone) demonstrate practical application of front-end technologies. Her Full Stack internship also provides a broader understanding of web development.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Version Control (Git)",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 20,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which aligns moderately with the educational requirements for a Junior Front-End Developer. The candidate has some relevant internship experience, including developing a Netflix clone and a personal portfolio website, indicating some practical skills in front-end development. The listed skills include HTML and CSS, which are essential for the role, but lack mention of JavaScript or modern front-end frameworks. The overall potential is moderate, considering the limited experience and the need for further skill development in core front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "Given her previous internship experience, another Front-End Developer Internship would be a good fit. This allows her to further hone her skills and gain more practical experience before moving into a full-time role. Her existing skills in HTML and CSS are directly applicable.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates some relevant experience through internships involving front-end development tasks. Skills listed include HTML and CSS, which are essential. However, the resume lacks details on specific front-end frameworks or libraries (e.g., React, Angular, Vue.js) and JavaScript proficiency. The B.Tech degree provides a foundation, but further details on coursework related to web development would strengthen the application. Overall potential is moderate, contingent on the candidate's ability to quickly learn and apply new front-end technologies."
+      }
+    },
+    {
+      "jobTitle": "Junior Web Developer",
+      "matchScore": 65,
+      "reasoning": "Her Full Stack internship experience and skills in HTML, CSS, and SQL suggest a potential fit for a Junior Web Developer role. While she may need to develop her back-end skills further, her existing knowledge provides a foundation.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (e.g., Node.js, Python/Django)",
+        "Version Control (Git)",
+        "API Development"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which provides a foundational understanding. The internships at DevElet, focusing on front-end and full-stack development, are relevant, particularly the Weather Forecast Application, Netflix Clone, Personal Portfolio Website, and Task Manager Application. The skills listed include HTML and CSS, which are essential for a Junior Web Developer, but lack Javascript and other modern front-end frameworks. The inclusion of Java, SQL, and Machine Learning, while valuable, are less directly applicable to a front-end role. Overall potential is moderate, contingent on rapid skill acquisition in Javascript and relevant frameworks."
+      }
+    },
+    {
+      "jobTitle": "Web Development Intern",
+      "matchScore": 78,
+      "reasoning": "Considering her Full Stack internship, a Web Development Internship would allow her to explore both front-end and back-end technologies further. This provides a broader understanding of the web development process and helps her identify her preferred area of specialization.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "SQL/Database Management",
+        "English"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Backend Framework (e.g., Node.js, Python/Django)",
+        "Version Control (Git)"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 25,
+          "educationAlignment": 18,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant web development skills (HTML, CSS). Experience as a Front End and Full Stack intern is highly relevant. B.Tech degree aligns well with the internship. Potential is good, but further assessment of coding proficiency is recommended."
+      }
+    },
+    {
+      "jobTitle": "Technical Support Engineer",
+      "matchScore": 55,
+      "reasoning": "While not directly related to her development experience, her strong communication skills (English, Hindi, Telugu) and general technical aptitude could make her suitable for a Technical Support Engineer role, especially in a company that uses the technologies she's familiar with. This is a lower match due to the shift in focus from development to support.",
+      "requiredSkills": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Cybersecurity Fundamentals"
+      ],
+      "missingSkills": [
+        "Customer Service Skills",
+        "Troubleshooting Methodologies",
+        "Specific Product Knowledge"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 18,
+          "experienceRelevance": 12,
+          "educationAlignment": 15,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, aligning moderately with the educational requirements. Skills like SQL and basic programming are relevant, but lack specific technical support skills. Internship experience is limited in duration and direct relevance to technical support. Overall potential is moderate, requiring significant on-the-job training."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T08-44-09-455Z"
+}

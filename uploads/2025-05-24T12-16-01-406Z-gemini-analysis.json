@@ -1,0 +1,175 @@
+{
+  "resumeAnalysis": {
+    "name": "ALAMANDA STEFFANIE GRACE",
+    "email": "gracealamanda377@gmail.com",
+    "phone": "9989654665",
+    "education": [
+      {
+        "degree": "B.TECH",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "DevElet",
+        "position": "FRONT END INTERN",
+        "duration": "August 2024 - September 2024",
+        "description": "Developed Weather Forecast Application\nDeveloped a Netflix Clone"
+      },
+      {
+        "company": "DevElet",
+        "position": "FULL STACK INTERN",
+        "duration": "September 2024 - October2024",
+        "description": "Created Personal Portfolio Website\nDeveloped Task Manager Application"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Cybersecurity Fundamentals",
+      "SQL/Database Management",
+      "Machine Learning Algorithms",
+      "HTML",
+      "CSS",
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Front-End Developer",
+      "matchScore": 75,
+      "reasoning": "Alamanda's internship experience as a Front End Intern, where she developed a Weather Forecast Application and a Netflix Clone, directly aligns with the responsibilities of a Junior Front-End Developer. Her skills in HTML and CSS are fundamental to this role. The match score reflects her limited professional experience but strong foundational skills.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 55,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses a B.Tech degree, which provides a foundational understanding. The internship experience, while brief, shows exposure to front-end development through projects like a Netflix clone and portfolio website. The skills list includes HTML and CSS, which are essential for a front-end role, but lacks mention of JavaScript or modern front-end frameworks. The overall potential is moderate, contingent on rapid skill development in JavaScript and related technologies."
+      }
+    },
+    {
+      "jobTitle": "Front-End Developer Intern",
+      "matchScore": 85,
+      "reasoning": "This role directly matches her previous internship experience. Her skills in HTML and CSS are directly applicable. The higher match score reflects the direct relevance of her past experience.",
+      "requiredSkills": [
+        "HTML",
+        "CSS"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate possesses some relevant skills (HTML, CSS) but lacks depth in front-end specific frameworks. Experience includes relevant projects, but the duration is short. Education is aligned, but lacks specific details. Overall potential is moderate, requiring further assessment of learning agility."
+      }
+    },
+    {
+      "jobTitle": "Junior Full-Stack Developer",
+      "matchScore": 65,
+      "reasoning": "Alamanda's internship as a Full Stack Intern, where she created a Personal Portfolio Website and developed a Task Manager Application, provides some experience relevant to a Junior Full-Stack Developer role. Her skills in HTML, CSS, and potentially Java (depending on the stack used) are beneficial. However, the match score is lower due to the limited duration of her full-stack experience and the lack of explicitly mentioned backend skills beyond Java.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "Java",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Node.js",
+        "RESTful APIs",
+        "Version Control (Git)",
+        "Deployment Technologies (e.g., Docker, AWS)",
+        "Testing Frameworks"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 25,
+          "educationAlignment": 10,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a basic understanding of front-end technologies (HTML, CSS) and some full-stack experience through internships. The skills listed are somewhat broad, and the experience is limited in duration. The B.Tech degree is relevant, but the lack of a specific major or graduation year impacts the education score. Overall potential is moderate, requiring further assessment of coding proficiency and problem-solving abilities."
+      }
+    },
+    {
+      "jobTitle": "Web Developer Intern",
+      "matchScore": 80,
+      "reasoning": "Given her experience with both front-end and full-stack projects during her internships, a Web Developer Intern position is a suitable match. This role allows her to utilize her existing skills in HTML, CSS, and potentially Java while gaining further experience in web development. The match score is high due to the direct relevance of her internship experience.",
+      "requiredSkills": [
+        "HTML",
+        "CSS",
+        "Java",
+        "SQL/Database Management"
+      ],
+      "missingSkills": [
+        "JavaScript Frameworks (React, Angular, Vue.js)",
+        "Version Control (Git)",
+        "Responsive Design",
+        "UI/UX Principles"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 25,
+          "educationAlignment": 18,
+          "overallPotential": 10
+        },
+        "detailedAnalysis": "The candidate demonstrates a reasonable skill set including HTML, CSS, and Java, aligning with front-end development. Experience as a Front End and Full Stack intern is relevant, particularly the development of a Weather Forecast Application and Netflix Clone. A B.Tech degree from Malla Reddy College of Engineering and Technology is a good foundation. While the skills and experience are relevant, the short duration of the internships and the lack of specific project details limit the overall potential score. Further investigation into the depth of knowledge and project contributions is recommended."
+      }
+    },
+    {
+      "jobTitle": "Software Engineer Intern",
+      "matchScore": 60,
+      "reasoning": "While Alamanda possesses skills like Java and knowledge of Machine Learning Algorithms, her resume lacks specific project details or experience that directly translates to a Software Engineer role. The match score is lower because the listed skills are broad and require further development and practical application in a software engineering context. The internships are relevant but not sufficient to strongly qualify for a Software Engineer role without further skill development.",
+      "requiredSkills": [
+        "Java"
+      ],
+      "missingSkills": [
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming Principles",
+        "Software Design Patterns",
+        "Version Control (Git)",
+        "Testing Methodologies",
+        "Specific Frameworks/Libraries relevant to the target software domain"
+      ],
+      "thresholdScore": {
+        "overallScore": 75,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 23,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant skills like HTML, CSS, and potentially Java (depending on the depth). Experience as a Front End and Full Stack intern is relevant, showcasing practical application of skills. A B.Tech degree aligns well with the role. Overall potential is promising, given the internship experience and technical skills, but further assessment of coding proficiency and problem-solving abilities is recommended."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T12-16-01-406Z"
+}

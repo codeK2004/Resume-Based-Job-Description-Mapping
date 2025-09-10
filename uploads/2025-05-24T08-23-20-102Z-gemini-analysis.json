@@ -1,0 +1,210 @@
+{
+  "resumeAnalysis": {
+    "Name": "BHASKARARAJU NARASIMHA KASYAP",
+    "Email": "kasyap180305@gmail.com",
+    "Phone": "7330992922",
+    "Education": [
+      {
+        "Degree": "B.TECH",
+        "School": "Malla Reddy College of Engineering and Technology",
+        "Years": null,
+        "CGPA": "9.22"
+      },
+      {
+        "Degree": "INTERMEDIATE EDUCATION",
+        "School": "iClass CDR junior college",
+        "Years": null,
+        "Percentage": "86.5%"
+      },
+      {
+        "Degree": "SECONDARY EDUCATION",
+        "School": "Pragathi Central School",
+        "Years": null,
+        "Percentage": "79%"
+      }
+    ],
+    "Work Experience": [
+      {
+        "Title": "FULL STACK INTERN",
+        "Company": "DevElet",
+        "Years": "September 2024 - October2024",
+        "Responsibilities": []
+      },
+      {
+        "Title": "FRONT END INTERN",
+        "Company": "DevElet",
+        "Years": "August 2024 - September 2024",
+        "Responsibilities": [
+          "Developed Weather Forecast Application",
+          "Engineered Netflix Clone Platform",
+          "Created Personal Portfolio Website",
+          "Built A Task Manager Application"
+        ]
+      }
+    ],
+    "Skills": {
+      "Technical Skills": [
+        "Python",
+        "Java",
+        "Cybersecurity Fundamentals",
+        "HTML/CSS",
+        "Generative AI",
+        "SQL/Database Management",
+        "Machine Learning Algorithms"
+      ],
+      "Soft Skills": []
+    },
+    "Certifications": [
+      "Skilligence Ethical Hacking at IIT-Hyderabad",
+      "What is Generative AI- Linkedln Learning",
+      "CCNA: Introduction to Networks",
+      "Ethical Hacking -Internshala trainings",
+      "Web Development- Internshala trainings",
+      "Cambridge English Empower Level C1 Course",
+      "Wadhwani - JobReady Employability Skills"
+    ],
+    "Projects": [
+      {
+        "Name": "ILLEGAL FISHING DETECTION USING MACHINE LEARNING",
+        "Description": "Uses machine learning to identify and prevent illegal fishing activities in real-time."
+      },
+      {
+        "Name": "AUTOMATED VITAL SIGN MONITORING PLATFORM",
+        "Description": "Tracks and monitors vital signs in real-time, providing automated health insights."
+      }
+    ]
+  },
+  "jobRecommendations": [
+    {
+      "jobTitle": "Junior Full Stack Developer",
+      "matchScore": 85,
+      "reasoning": "The candidate has experience as a Full Stack Intern and possesses skills in Python, Java, HTML/CSS, and SQL/Database Management. The projects demonstrate practical application of these skills. The internship experience, while short, provides a foundation.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript",
+        "Python or Java",
+        "SQL",
+        "Version Control (Git)"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "Git"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 18,
+          "educationAlignment": 15,
+          "overallPotential": 13
+        },
+        "detailedAnalysis": "The candidate demonstrates a good foundation in relevant technical skills like Python, HTML/CSS, and SQL. Internship experience at DevElet provides some practical exposure, particularly in front-end development. The B.Tech degree with a high CGPA is a positive indicator. However, the internship durations are short, and the depth of full-stack experience is unclear. The projects listed are promising, but further details on the candidate's specific contributions are needed. Overall, the candidate shows potential but requires further development and practical experience to excel as a Junior Full Stack Developer."
+      }
+    },
+    {
+      "jobTitle": "Front End Developer",
+      "matchScore": 80,
+      "reasoning": "The candidate has experience as a Front End Intern and possesses skills in HTML/CSS. The projects, particularly the Netflix Clone and Personal Portfolio Website, showcase front-end development abilities. The Web Development certification further supports this.",
+      "requiredSkills": [
+        "HTML/CSS",
+        "JavaScript",
+        "React/Angular/Vue.js",
+        "Responsive Design"
+      ],
+      "missingSkills": [
+        "JavaScript",
+        "React/Angular/Vue.js",
+        "Responsive Design"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of front-end technologies (HTML/CSS) and has some relevant project experience. The internship experience, while short, provides practical application. The B.Tech degree is relevant, and the high CGPA indicates strong academic performance. The candidate's potential is good, given their project work and certifications, but further development in specific front-end frameworks (React, Angular, Vue) is needed to significantly improve their fit."
+      }
+    },
+    {
+      "jobTitle": "Data Analyst",
+      "matchScore": 75,
+      "reasoning": "The candidate possesses skills in Python, SQL/Database Management, and Machine Learning Algorithms. The projects, especially the Illegal Fishing Detection project, demonstrate the application of these skills in data analysis. The strong CGPA also suggests analytical aptitude.",
+      "requiredSkills": [
+        "SQL",
+        "Python",
+        "Data Visualization (Tableau/Power BI)",
+        "Statistical Analysis"
+      ],
+      "missingSkills": [
+        "Data Visualization (Tableau/Power BI)",
+        "Statistical Analysis"
+      ],
+      "thresholdScore": {
+        "overallScore": 65,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 15,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of relevant technical skills like Python, SQL, and Machine Learning Algorithms. However, the work experience is limited to internships and lacks specific data analysis projects. The B.Tech degree is relevant, but the lack of specific data analysis coursework impacts the education alignment score. The candidate shows potential based on projects and certifications, but needs more practical experience in data analysis roles."
+      }
+    },
+    {
+      "jobTitle": "Cybersecurity Analyst (Entry-Level)",
+      "matchScore": 70,
+      "reasoning": "The candidate has skills in Cybersecurity Fundamentals and certifications in Ethical Hacking. While experience is limited, the certifications and stated skills provide a foundation for an entry-level role. The CCNA certification is also beneficial.",
+      "requiredSkills": [
+        "Network Security",
+        "Security Auditing",
+        "Intrusion Detection",
+        "Incident Response"
+      ],
+      "missingSkills": [
+        "Network Security",
+        "Security Auditing",
+        "Intrusion Detection",
+        "Incident Response"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 20,
+          "experienceRelevance": 15,
+          "educationAlignment": 18,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a foundational understanding of cybersecurity fundamentals and relevant technical skills like Python and SQL. The Ethical Hacking certification and projects related to data analysis and automation are positive indicators. However, the work experience is limited to short internships in full-stack and front-end development, lacking direct cybersecurity experience. The B.Tech degree and relevant certifications contribute to a good education alignment. Overall, the candidate shows potential but needs to gain more practical cybersecurity experience."
+      }
+    },
+    {
+      "jobTitle": "Machine Learning Engineer (Intern)",
+      "matchScore": 65,
+      "reasoning": "The candidate possesses skills in Python and Machine Learning Algorithms, demonstrated by the Illegal Fishing Detection project. However, the lack of specific machine learning frameworks experience (e.g., TensorFlow, PyTorch) and a formal degree in Computer Science or related field limits the match.",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning Frameworks (TensorFlow, PyTorch)",
+        "Data Preprocessing",
+        "Model Evaluation"
+      ],
+      "missingSkills": [
+        "Machine Learning Frameworks (TensorFlow, PyTorch)",
+        "Data Preprocessing",
+        "Model Evaluation"
+      ],
+      "thresholdScore": {
+        "overallScore": 68,
+        "breakdown": {
+          "skillsMatch": 22,
+          "experienceRelevance": 15,
+          "educationAlignment": 16,
+          "overallPotential": 15
+        },
+        "detailedAnalysis": "The candidate demonstrates a solid foundation in relevant technical skills like Python, Machine Learning Algorithms, and Generative AI. The projects, particularly 'ILLEGAL FISHING DETECTION USING MACHINE LEARNING' and 'AUTOMATED VITAL SIGN MONITORING PLATFORM', showcase practical application of ML concepts. While the work experience is primarily in full-stack and front-end development, the projects compensate for this lack of direct ML internship experience. The B.Tech degree with a high CGPA indicates strong academic performance. The candidate's potential is good, given the skills and project experience, but further development in specific ML areas would be beneficial."
+      }
+    }
+  ],
+  "timestamp": "2025-05-24T08-23-20-102Z"
+}
