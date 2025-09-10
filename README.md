@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# JobMatch - Resume-Based Job Description Mapping  
 
-## Getting Started
+JobMatch is an intelligent job-matching web application built with **Next.js**, designed to connect job seekers with opportunities that best align with their **skills, education, and experience**. By leveraging **resume parsing** and a **matching algorithm**, JobMatch provides personalized job recommendations and helps users save time in their job search.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Resume Upload & Parsing** – Upload your resume (PDF/DOCX) to automatically extract skills, education, and work experience.  
+- **Skill Extraction** – Identify and highlight key skills directly from resumes.  
+- **Job Recommendations** – Get ranked job recommendations with match percentages based on your profile.  
+- **Match Visualization** – View how closely your resume aligns with specific job requirements.  
+- **User-Friendly Interface** – Intuitive UI for resume upload, job browsing, and profile management.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Tech Stack  
 
-## Learn More
+- **Frontend:** Next.js (React framework)  
+- **Styling:** Tailwind CSS / CSS Modules  
+- **Backend:** Node.js (API routes in Next.js)  
+- **Resume Parsing:** Custom logic + third-party libraries  
+- **Database:** (Add here – e.g., MongoDB, PostgreSQL)  
+- **Deployment:** Vercel  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ⚙️ How It Works  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Resume Upload:** User uploads a resume via the web interface.  
+2. **Parsing & Extraction:** The resume is parsed to extract **skills, education, and work experience**.  
+3. **Matching Algorithm:** Extracted data is compared with job listings in the database.  
+4. **Recommendations:** Jobs are ranked by **match percentage** and displayed to the user.  
+5. **Interaction:** Users can view job details, save listings, or proceed to apply.  
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
